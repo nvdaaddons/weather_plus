@@ -1,0 +1,1347 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Weather_Plus package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather_Plus 6.2\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2019-05-13 15:54+1000\n"
+"PO-Revision-Date: 2021-01-01 13:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Kelvin"
+msgstr "Kelvin"
+
+msgid "unknown"
+msgstr "ismeretlen"
+
+msgid "Weather Plus &Settings"
+msgstr "Időjárás-előrejelző"
+
+msgid "Show configuration items."
+msgstr "Beállítások megjelenítése"
+
+msgid "Set and &manage your cities..."
+msgstr "&Városok beállítása és kezelése"
+
+msgid "Displays or allows to set the current cities from a list"
+msgstr "Városok megjelenítése, vagy importálása egy listából"
+
+msgid "Set a &temporary city..."
+msgstr "&Ideiglenes város beállítása..."
+
+msgid "Allows to set one temporary city from a list"
+msgstr "Ideiglenes város beállítása listából"
+
+msgid "&Documentation"
+msgstr "&Súgó"
+
+msgid "Opens the help file for the current language"
+msgstr "Megnyitja a súgót a jelenlegi nyelvhez"
+
+msgid "&Check for Upgrade..."
+msgstr "&Frissítések keresése..."
+
+msgid "Notify if there is an upgraded version available"
+msgstr "Figyelmeztessen, ha van új verzió"
+
+#. opens the Weather Plus settings window
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Preset"
+msgstr "Alapértelmezett"
+
+msgid "None"
+msgstr "Nincs megadva"
+
+msgid "Enter a City, woeId or choose one from the list, if available."
+msgstr "Írjon be egy várost vagy WoeID értéket, vagy válasszon a listából"
+
+msgid "The woeID"
+msgstr "A WoeID"
+
+msgid "assigned to"
+msgstr "Társítva"
+
+msgid "has not been preset."
+msgstr "nem lett beállítva alapértelmezett helynek,"
+
+msgid "Will be used in temporary mode!"
+msgstr "ezért ideiglenes módban lesz használva."
+
+#. offers to save the list changed
+msgid "Notice!"
+msgstr "Figyelem!"
+
+msgid "You have modified the list of your cities"
+msgstr "Módosította a városok listáját"
+
+msgid "Do you want to save it?"
+msgstr "Szeretné elmenteni?"
+
+msgid "The cities on your list are not compatible with the Yahoo API!"
+msgstr "A listáján szereplő városok nem kompatibilisek a Yahoo felületével!"
+
+msgid ""
+"They have to be tested and validated, you can do it from the addon settings "
+"window."
+msgstr ""
+"Ellenőrizni és hitelesíteni kell őket! Ezt megteheti a bővítmény beállításai "
+"közt."
+
+msgid "Setting up a temporary city"
+msgstr "Ideiglenes város beállítása"
+
+msgid "Cities List available:"
+msgstr "Elérhető városok"
+
+msgid "Documentation not available for the current language!"
+msgstr "Nincs súgó a jelenlegi nyelven."
+
+msgid ""
+"Sorry, i can not receive data, problems with the download page, try again "
+"later please!"
+msgstr ""
+"Nem tudok adatokat fogadni, probléma van a letöltési oldallal, próbálja meg "
+"később!"
+
+msgid ""
+"Sorry, i can not receive data, verify that your internet connection is "
+"active, or try again later!"
+msgstr ""
+"Nem tudok adatokat fogadni, kérem ellenőrizze az internetkapcsolatot, vagy "
+"próbálja meg később."
+
+msgid "version"
+msgstr "Verzió"
+
+msgid "is available."
+msgstr "elérhető."
+
+msgid "Installed version"
+msgstr "Telepített verzió"
+
+msgid "Do you want to download and install it?"
+msgstr "Szeretné letölteni és telepíteni?"
+
+msgid "Sorry, at the time an update is not available."
+msgstr "Jelenleg nincs elérhető frissítés."
+
+msgid "not found!"
+msgstr "Nem található!"
+
+msgid ""
+"You need to upgrade the sound effects by reactivating the appropriate option "
+"from the settings of"
+msgstr "Frissítenie kell a hangeffekteket a beállítás újboli bekapcsolásával."
+
+msgid "But if these are already updated, then you need to update"
+msgstr "Akkor is ha ezek korábban már frissítve lettek."
+
+msgid "I can not load the settings!"
+msgstr "Nem tudom betölteni a beállításokat!"
+
+msgid "I can not save the settings!"
+msgstr "Nem tudom elmenteni a beállításokat!"
+
+msgid "invalid name"
+msgstr "Érvénytelen név"
+
+msgid "miles"
+msgstr "mérföld"
+
+#. takes the value in mmHg
+msgid "millimeters of mercury"
+msgstr "higanymilliméter"
+
+msgid "inches of mercury"
+msgstr "higanyhüvelyk"
+
+msgid "kilometers"
+msgstr "Kilométer"
+
+msgid "millibars"
+msgstr "Millibár"
+
+msgid "the weather report is currently"
+msgstr "Az időjárás"
+
+msgid "degrees"
+msgstr "Fok"
+
+#. adds wind information to the string
+msgid "The wind direction is from"
+msgstr "A szél iránya"
+
+msgid "with speed of"
+msgstr "sebessége"
+
+msgid "The wind speed is"
+msgstr "A szél sebessége"
+
+msgid "The perceived temperature is"
+msgstr "A hőérzet"
+
+#. adds information on the atmosphere
+msgid "steady"
+msgstr "Stagnáló"
+
+msgid "rising"
+msgstr "Emelkedő"
+
+msgid "falling"
+msgstr "Csökkenő"
+
+msgid "The humidity is"
+msgstr "a páratartalom"
+
+msgid "and the visibility is up to"
+msgstr "és a látótávolság"
+
+msgid "The visibility is up to"
+msgstr "a látótávolság"
+
+msgid "The pressure is"
+msgstr "a légnyomás"
+
+msgid "and the state of the barometric pressure is"
+msgstr "tendenciája"
+
+msgid "The state of the barometric pressure is"
+msgstr "a légköri nyomás tendenciája"
+
+msgid "The sun rises at"
+msgstr "napkelte"
+
+msgid "and sets at"
+msgstr "napnyugta"
+
+msgid "the forecast for today is"
+msgstr "a mai előrejelzés"
+
+msgid "with a maximum temperature of"
+msgstr "a legmagasabb hőmérséklet"
+
+msgid "and a minimum of"
+msgstr "és a legalacsonyabb hőmérséklet"
+
+msgid "not available"
+msgstr "nem érhető el"
+
+#. this does not replace the name of the city
+msgid "In"
+msgstr " "
+
+msgid "Unnamed"
+msgstr "Névtelen"
+
+msgid "Sorry, the woeID is not set!"
+msgstr "A WOEID nincs beállítva!"
+
+msgid "kilometers per hour"
+msgstr "Kilométer per óra"
+
+msgid "miles per hour"
+msgstr "Mérföld per óra"
+
+#. weather condition
+msgid "in the morning"
+msgstr "Reggel"
+
+msgid "in the evening"
+msgstr "Este"
+
+msgid " and "
+msgstr " és "
+
+msgid " to "
+msgstr " eddig "
+
+msgid "in the vicinity"
+msgstr "a környéken"
+
+msgid "tornado"
+msgstr "tornádó"
+
+msgid "tropical storm"
+msgstr "trópusi vihar"
+
+msgid "hurricane"
+msgstr "hurrikán"
+
+msgid "severe thunderstorms"
+msgstr "erős viharok"
+
+msgid "mixed rain and snow"
+msgstr "havaseső"
+
+msgid "mixed rain and hail"
+msgstr "eső, jégeső"
+
+msgid "mixed rain and sleet"
+msgstr "havaseső záporral"
+
+msgid "mixed snow and sleet"
+msgstr "hó, havaseső"
+
+msgid "snow flurries"
+msgstr "hóförgetegek"
+
+msgid "smoke"
+msgstr "füst"
+
+msgid "smoky"
+msgstr "füstös"
+
+msgid "precipitation"
+msgstr "csapadék"
+
+msgid "sunny intervals"
+msgstr "napos időszakok"
+
+msgid "sunny period"
+msgstr "napsütés időtartama"
+
+msgid "light snow"
+msgstr "hószállingózás"
+
+msgid "scattered snow showers"
+msgstr "elszórt hózáporok"
+
+msgid "snow showers"
+msgstr "hózáporok"
+
+msgid "snow shower"
+msgstr "hózápor"
+
+msgid "snowstorm"
+msgstr "hóvihar"
+
+msgid "snowdrift"
+msgstr "hóátfúvás"
+
+msgid "drifting snow"
+msgstr "hóátfúvás"
+
+msgid "wintry Mix"
+msgstr "havaseső"
+
+msgid "ice to rain"
+msgstr "jégeső"
+
+msgid "ice"
+msgstr "jég"
+
+msgid "blizzard"
+msgstr "hóförgeteg"
+
+msgid "blowing snow"
+msgstr "hófúvás"
+
+msgid "snow"
+msgstr "havazás"
+
+msgid "light rain with thunder"
+msgstr "zivatar"
+
+msgid "few showers"
+msgstr "szórványos záporok"
+
+msgid "heavy showers"
+msgstr "heves záporok"
+
+msgid "heavy thunderstorms"
+msgstr "heves zivatarok"
+
+msgid "heavy thunderstorm"
+msgstr "heves zivatar"
+
+msgid "lightning"
+msgstr "villámlás"
+
+msgid "isolated clouds"
+msgstr "elszigetelt felhők"
+
+msgid "partly cloudy"
+msgstr "közepesen felhős"
+
+msgid "partly bright"
+msgstr "részben napos"
+
+msgid "showers early"
+msgstr "korai záporok"
+
+msgid "light rain"
+msgstr "gyenge eső"
+
+msgid "heavy rain"
+msgstr "intenzív eső"
+
+msgid "isolated showers"
+msgstr "elszigetelt záporok"
+
+msgid "isolated thunderstorms"
+msgstr "elszigetelt zivatarok"
+
+msgid "isolated thundershowers"
+msgstr "elszigetelt zivatarok"
+
+msgid "mostly cloudy"
+msgstr "erősen felhős"
+
+msgid "mostly dry"
+msgstr "jobbára száraz"
+
+msgid "mostly clear"
+msgstr "jobbára derült"
+
+msgid "clearing"
+msgstr "derült"
+
+msgid "no rain"
+msgstr "nincs eső"
+
+msgid "sleet"
+msgstr "havaseső"
+
+msgid "blowing dust"
+msgstr "porvihar"
+
+msgid "widespread dust"
+msgstr "kiterjedt porvihar"
+
+msgid "low drifting sand"
+msgstr "talajközeli homokvihar"
+
+msgid "sandstorm"
+msgstr "homokvihar"
+
+msgid "sand storm"
+msgstr "homok vihar"
+
+msgid "dust"
+msgstr "por"
+
+msgid "sand"
+msgstr "homok"
+
+msgid "thundery showers"
+msgstr "zivatarok"
+
+msgid "thundershowers"
+msgstr "zivatarok"
+
+msgid "scattered thunderstorms"
+msgstr "elszórt zivatarok"
+
+msgid "scattered showers"
+msgstr "elszórt záporok"
+
+msgid "thunderstorms"
+msgstr "zivatarok"
+
+msgid "thunderstorm"
+msgstr "zivatar"
+
+msgid "storm"
+msgstr "vihar"
+
+msgid "hail"
+msgstr "jégeső"
+
+msgid "foggy"
+msgstr "ködös"
+
+msgid "fog"
+msgstr "köd"
+
+msgid "haze"
+msgstr "ködfátyol"
+
+msgid "mist"
+msgstr "ködszitálás"
+
+msgid "clear"
+msgstr "derült"
+
+msgid "fair"
+msgstr "derült"
+
+msgid "fine"
+msgstr "derült"
+
+msgid "overcast"
+msgstr "borús"
+
+msgid "light showers"
+msgstr "gyenge záporok"
+
+msgid "light drizzle"
+msgstr "enyhe szitálás"
+
+msgid "freezing rain"
+msgstr "ónoseső"
+
+msgid "frequent showers"
+msgstr "állandó záporok"
+
+msgid "rain shower"
+msgstr "felhőszakadás"
+
+msgid "rain"
+msgstr "eső"
+
+msgid "freezing drizzle"
+msgstr "ónos szitálás"
+
+msgid "showers"
+msgstr "záporok"
+
+msgid "drizzle"
+msgstr "szitáló eső"
+
+msgid "dry"
+msgstr "száraz"
+
+msgid "mild"
+msgstr "enyhe"
+
+msgid "clouds"
+msgstr "felhők"
+
+msgid "cloudy"
+msgstr "felhős"
+
+msgid "mostly sunny"
+msgstr "jobbára napos"
+
+msgid "sunny"
+msgstr "napos"
+
+msgid "sun"
+msgstr "napsütés"
+
+msgid "bright"
+msgstr "derült"
+
+msgid "thunder"
+msgstr "mennydörgés"
+
+msgid "shower"
+msgstr "zápor"
+
+msgid "breezy"
+msgstr "szeles"
+
+msgid "blustery"
+msgstr "viharos"
+
+msgid "windy"
+msgstr "szeles"
+
+msgid "wind"
+msgstr "szél"
+
+msgid "flurries"
+msgstr "széllökések"
+
+msgid "late"
+msgstr "kései"
+
+msgid "early"
+msgstr "korai"
+
+msgid "isolated"
+msgstr "elszigetelt"
+
+msgid "shallow fog"
+msgstr "sekély köd"
+
+msgid "heavy"
+msgstr "heves"
+
+msgid "cold"
+msgstr "hideg"
+
+msgid "hot"
+msgstr "forró"
+
+msgid "Sorry, it was not possible to load the most recent update!"
+msgstr "Nem sikerült betölteni a legújabb frissítést."
+
+msgid "Please try again later."
+msgstr "Próbálkozzon később."
+
+msgid "meters per second"
+msgstr "méter per szekumdum"
+
+msgid "Sorry, the woeID set is not valid or contains incomplete data!"
+msgstr "A WOEID érték nem teljes vagy hibás."
+
+msgid "north"
+msgstr "északi"
+
+msgid "north northeast"
+msgstr "észak-északkeleti"
+
+msgid "northeast"
+msgstr "északkeleti"
+
+msgid "east northeast"
+msgstr "kelet-északkeleti"
+
+msgid "east"
+msgstr "keleti"
+
+msgid "east southeast"
+msgstr "kelet-délkeleti"
+
+msgid "southeast"
+msgstr "délkeleti"
+
+msgid "south southeast"
+msgstr "dél-délkeleti"
+
+msgid "south"
+msgstr "déli"
+
+msgid "south southwest"
+msgstr "dél-délnyugati"
+
+msgid "southwest"
+msgstr "délnyugati"
+
+msgid "west southwest"
+msgstr "nyugat-délnyugati"
+
+msgid "west"
+msgstr "nyugati"
+
+msgid "west northwest"
+msgstr "nyugat-északnyugati"
+
+msgid "northwest"
+msgstr "északnyugati"
+
+msgid "north northwest"
+msgstr "észak-északnyugati"
+
+msgid ""
+"Is not working properly, contains incomplete data or has been removed from "
+"the database of"
+msgstr ""
+"nem működik megfelelően, hibás adatokat tartalmaz vagy el lett távolítva az "
+"adatbázisból"
+
+msgid "It could be a temporary problem and you may wait a while '..."
+msgstr "Ideiglenes hiba történhetett, várjon néhány percet '..."
+
+msgid "Do you want to delete it from your list?"
+msgstr "Szeretné törölni a listáról?"
+
+msgid "Provides the current temperature and weather conditions."
+msgstr "Hőmérséklet és időjárási viszonyok lekérdezése"
+
+msgid ""
+"Provides the weather forecast and current temperature for 24 hours and the "
+"next 9 days."
+msgstr "előrejelzés a következő 24 órára és a következő napokra"
+
+msgid "Sorry, no list available!"
+msgstr "Nincs elérhető lista!"
+
+msgid "Allows you to set a temporary city."
+msgstr "Ideiglenes város kiválasztása"
+
+msgid "Scale of temperature measurement set into"
+msgstr "Hőmérsékleti skála beállítva "
+
+msgid "Allows you to set a temporary scale of temperature mesurement."
+msgstr "Ideiglenes hőmérsékleti skála beállítása"
+
+msgid "at"
+msgstr " "
+
+msgid "Last update of the current weather report"
+msgstr "Az időjárási adatok utolsó frissítése: "
+
+msgid "Announces the date of the last update of the weather report."
+msgstr "Az időjárási adatok utolsó frissítésének lekérdezése"
+
+msgid "Open the Weather Plus settings dialog."
+msgstr "A bővítmény beállításai"
+
+msgid ""
+"f1: help placing, f2: last TAB selection, f3: list and edit box, f4: control "
+"duration Weather Forecast, f5: volume controls."
+msgstr ""
+"F1: Súgó, F2: utolsó kijelölt lapfül, F3: Lista és szerkesztőmező, F4: "
+"Előrejelzés napok száma, F5: Hangerő."
+
+msgid ""
+"f1: help placing, f2: last TAB selection, f3: list and edit box, f4: control "
+"duration Weather Forecast."
+msgstr ""
+"F1: Súgó, F2: utolsó kijelölt lapfül, F3: Lista és szerkesztőmező, F4: "
+"Előrejelzés napok száma."
+
+msgid "Test"
+msgstr "Ellenőrzés"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Define"
+msgstr "definiálás"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "&Import new cities..."
+msgstr "Városok importálása..."
+
+msgid "&Export your cities..."
+msgstr "Városok exportálása..."
+
+msgid "Scale of temperature measurement:"
+msgstr "hőmérsékleti skála:"
+
+msgid "Degrees shown as:"
+msgstr "mértékegység megjelenítése:"
+
+msgid "C - F - K"
+msgstr "C - F - K"
+
+msgid "Don't specify"
+msgstr "ne jelenítse meg"
+
+msgid "Weather Forecasts up to days:"
+msgstr "Előrejelzett napok száma"
+
+#. check boxes
+msgid ""
+"&Copy the weather report and weather forecast, including city details to "
+"clipboard"
+msgstr ""
+"Időjárás-előrejelzés másolása a vágólapra, a város részletes adataival együtt"
+
+msgid "Enable &audio effects (only for the current weather conditions)"
+msgstr "&Hangeffektek az időjárási viszonyokhoz"
+
+msgid "Use only &weather effects"
+msgstr "Csak időjárási hangok"
+
+msgid "General audio volume"
+msgstr "Általános hangerő"
+
+msgid "Current audio volume"
+msgstr "jelenlegi hangerő"
+
+#. check boxes
+msgid "Enable &help buttons in the settings window"
+msgstr "Súgószövegek a gombokon"
+
+#, fuzzy
+msgid "Read &wind information"
+msgstr "&Szélviszonyok"
+
+msgid "Add wind directi&on"
+msgstr "Szél&irány"
+
+msgid "Add wi&nd speed"
+msgstr "Szélsebesség"
+
+msgid "Add speed in &meters per second of the wind"
+msgstr "Szélsebesség méter per szekundumban"
+
+msgid "Add perceived &temperature"
+msgstr "Hőérzet"
+
+#, fuzzy
+msgid "&Read atmospherical information"
+msgstr "Légköri viszonyok"
+
+msgid "Add humidity va&lue"
+msgstr "Páratartalom"
+
+msgid "Add &visibility value"
+msgstr "Látótávolság"
+
+msgid "Add atmospheric &pressure value"
+msgstr "Légnyomás"
+
+msgid "Indicates the atmospheric pressure in millimeters of mercur&y (mmHg)"
+msgstr "Légnyomás higanymilliméterben (mmHg)"
+
+msgid "Add status of &barometric pressure"
+msgstr "légköri nyomás tendenciája"
+
+#, fuzzy
+msgid "Read a&stronomical information"
+msgstr "Csillagászati információk"
+
+msgid "Enable reading of the hours in &24-hour format"
+msgstr "&Huszonnégy órás formátum"
+
+msgid "Use the comma to separate decimals, example (4,&15)"
+msgstr "Tizedesvessző használata pont helyett, például (4,15)"
+
+msgid "Check for &upgrade"
+msgstr "&Frissítések keresése"
+
+msgid ""
+"Testing the validity of city woeID entry and find the name of city assigned, "
+"or viceversa."
+msgstr ""
+"Ellenőrzi a megadott WOEID érték vagy városnév érvényességét az adatbázisban."
+
+msgid "Displays information on the current city."
+msgstr "Részleteket jelenít meg a jelenlegi városról."
+
+msgid "Allows you to define the area, in order to adapt the sound effects."
+msgstr "Megadható a régió típusa a hangeffektek hozzárendeléséhez."
+
+msgid "Add the current city into your list."
+msgstr "Hozzáadja a jelenlegi várost a listához."
+
+msgid ""
+"Presets the current city as the default, will be used every time you restart "
+"the plugin."
+msgstr ""
+"Beállítja a jelenlegi várost alapértelmezett helyként, mindig ez fog "
+"megjelenni, amikor a bővítmény elindul."
+
+msgid "Delete  the current city from your list."
+msgstr "Eltávolítja a jelenlegi várost a listáról."
+
+msgid "Rename the current city."
+msgstr "Átnevezi a jelenlegi várost"
+
+msgid ""
+"Permits to incorporate in your list new cities importing them from another "
+"list with the extension *.zipcodes; you can select the city you want to "
+"import, by turning on the check box associated."
+msgstr ""
+"Új városokat adhat hozzá *.zipcodes kiterjesztésű fájlokból. Csak azok a "
+"városok kerülnek fel a saját városok listájára, amiknél bejelöli a megfelelő "
+"jelölőnégyzetet."
+
+msgid "Permits to save your list of cities in a specified path."
+msgstr "Elmenti a városlistát egy megadott fájlba."
+
+msgid ""
+"You can also indicate how to proceed by prefixing the following commands"
+msgstr ""
+"Az alábbi paraméterek megadásával segítheti a listán megadott adatok "
+"feldolgozását."
+
+msgid "Direct (the Recursive cities they will not appear), by typing D:City"
+msgstr "Közvetlenül (az ismétlődő városok nem jelennek meg) D:City"
+
+msgid "Geographic coordinates, by typing G:City"
+msgstr "Földrajzi koordinátákkal G:City"
+
+msgid "Postal code, by typing P:City"
+msgstr "Irányítószámmal P:City"
+
+msgid "Text string, by typing T:City"
+msgstr "Szövegrésszel T:City"
+
+msgid ""
+"The city can be preceded by the region and / or state, separated by a comma "
+"or space"
+msgstr ""
+"A várost megelőzheti a régió és/vagy az állam vesszővel vagy szóközzel "
+"elválasztva"
+
+msgid "Australia, Queensland, Cona Creek"
+msgstr "Australia, Queensland, Cona Creek"
+
+msgid "You can enter or search for a city"
+msgstr "Városokat az alábbi módokon kereshet"
+
+msgid "By city woeID: 715399"
+msgstr "A város WOEID kódja alapján: 715399"
+
+msgid "By only city name: Ferrara"
+msgstr "Csak városnév alapján: Ferrara"
+
+msgid "By state or region and city name: Emilia Romagna Ferrara"
+msgstr "Állam, régió, városnév alapján: Emilia Romagna Ferrara"
+
+msgid "By city name and country: Ferrara,it"
+msgstr "Város és országnév alapján: Ferrara,it"
+
+msgid "By postal code: 44100,it"
+msgstr "Irányítószám alapján: 44100,it"
+
+msgid "By geographic coordinates: latitude, longitude"
+msgstr "Földrajzi koordináták alapján: Hosszúság, Szélesség"
+
+msgid "If the city is not found"
+msgstr "Ha nem található a város az adatbázisban"
+
+msgid "Try with or without the country of origin"
+msgstr "Próbálja meg az ország megadásával és anélkül"
+
+msgid "Try to merge the name with hyphens, or separate it with spaces"
+msgstr "Próbálja meg a nevet kötőjellel vagy szóközzel elválasztva"
+
+msgid "Try deleting apostrophes"
+msgstr "Adja meg a nevet aposztrófok nélkül."
+
+msgid "Try changing the vowels accented with normal vowels"
+msgstr "Cserélje le az ékezetes betűket ékezet nélküliekre."
+
+msgid "Try to change in English some parts"
+msgstr "Adja meg angolul az ország vagy régió nevét."
+
+msgid "Try with a closest location"
+msgstr "Keressen egy közeli helyet."
+
+msgid "Help placing"
+msgstr "Segítség a hely megadásához"
+
+msgid "No sound effect in memory!"
+msgstr "Nincs hang betöltve a memóriába!"
+
+msgid "I can't reproduce the sound."
+msgstr "Nem tudom lejátszani a hangot."
+
+msgid "not found! Press F1 for help on entering data."
+msgstr ""
+"Nem található! Az F1 billentyűvel segítséget kaphat az adatok megadásához."
+
+msgid "Is not working properly or has been removed from the database of"
+msgstr "Nem működik, vagy el lett távolítva az adatbázisból"
+
+msgid "Is no longer valid!"
+msgstr "Már nem érvényes!"
+
+msgid "This option requires the installation of some audio effects"
+msgstr "Ez a beállítás hangeffektek telepítését igényli."
+
+msgid "Do you want to install them?"
+msgstr "Szeretné feltelepíteni őket?"
+
+msgid "The audio effects are installed!"
+msgstr "A hangeffektek már telepítve vannak."
+
+msgid "Would you like to update?"
+msgstr "Szeretné frissíteni?"
+
+msgid "Or do you want to uninstall them?"
+msgstr "Vagy inkább eltávolítaná őket?"
+
+msgid "Are you sure you want to uninstall the sound effects?"
+msgstr "Biztos, hogy eltávolítja a hangeffekteket?"
+
+msgid "Update in progress"
+msgstr "Frissítés folyamatban"
+
+msgid "Installation in progress"
+msgstr "Telepítés folyamatban"
+
+msgid "Please wait..."
+msgstr "Kérem várjon..."
+
+#. Installation Complete
+msgid "The installation of audio effects has been completed successfully!"
+msgstr "A hangefektek telepítése sikeresen befejeződött."
+
+msgid "Adding folder:"
+msgstr "Mappa hozzáadása:"
+
+msgid "The upgrade of audio effects has been completed successfully!"
+msgstr "A hangok frissítése sikeresen megtörtént!"
+
+msgid "These sound effects are subject to change by the author."
+msgstr "A hangok változtatásának jogát a szerző fenntartja."
+
+msgid "Disable and re-enable this option in order to update or uninstall them."
+msgstr ""
+"Kapcsolja ki majd aktiválja újra a beállítást, hogy eltávolítsa, telepítse, "
+"vagy frissítse őket."
+
+msgid "Verify that your internet connection is active, or try again later."
+msgstr "Ellenőrizze, hogy van-e internetkapcsolat, és próbálja újra."
+
+msgid "File corrupted or not available!"
+msgstr "a Fájl sérült vagy nem érhető el!"
+
+msgid "Sorry, i could not complete the installation of the sound effects!"
+msgstr "A hangok telepítését nem tudtam befejezni!"
+
+msgid "Installation Error!"
+msgstr "Telepítési hiba!"
+
+msgid ""
+"The details of this city are not in the database and so I added them to the "
+"list. Try again!"
+msgstr ""
+"A város részletes adatai nincsenek az adatbázisban, így adtam hozzá a "
+"listához. Próbálja meg később."
+
+msgid "Cannot identify your location, due to insufficient data."
+msgstr "Nem lehet a helyet meghatározni, az adatok nem megfelelőek."
+
+msgid "Details of"
+msgstr "Részletek"
+
+msgid "Place"
+msgstr "Hely"
+
+msgid "Current local time"
+msgstr "Helyi idő"
+
+msgid "Degrees latitude"
+msgstr "Szélességi fok"
+
+msgid "Degrees longitude"
+msgstr "Hosszúsági fok"
+
+msgid "Elevation above sea level"
+msgstr "Tengerszint feletti magasság"
+
+msgid "meters"
+msgstr "méter"
+
+msgid "Define the area for"
+msgstr "A környék..."
+
+msgid "Hinterland"
+msgstr "Hátország"
+
+msgid "Maritime area"
+msgstr "Tengerpart"
+
+msgid "Desert zone"
+msgstr "Sivatag"
+
+msgid "Arctic zone"
+msgstr "Sarkvidék"
+
+msgid "Mountain zone"
+msgstr "Hegyvidék"
+
+msgid "Enter new name."
+msgstr "Adjon meg új nevet."
+
+msgid "it can't be used because it already exists!"
+msgstr "Nem használható, mert már létezik ilyen!"
+
+msgid "is correct"
+msgstr "Helyes"
+
+msgid "But the name"
+msgstr "De a név"
+
+msgid "already exists"
+msgstr "Már létezik"
+
+msgid "You have to change it!"
+msgstr "Meg kell változtatni"
+
+msgid "The city proper is"
+msgstr "A város helyes neve"
+
+msgid "Want to use the suggested name?"
+msgstr "Szeretné használni a javasolt nevet?"
+
+msgid "Import cities"
+msgstr "Városok importálása"
+
+msgid "Do you want to replace your list with this?"
+msgstr "Szeretné ezzel lecserélni a listáját?"
+
+msgid "If you select yes, your list will be completely replaced."
+msgstr "Ha az igent választja, a listája teljesen kicserélődik."
+
+msgid "If you select no, the new cities will be added to your list."
+msgstr "Ha a nemet, az új városok hozzá lesznek adva a listájához."
+
+msgid "Select import mode"
+msgstr "Importálási mód kiválasztása"
+
+msgid "File contents"
+msgstr "fájl tartalma"
+
+msgid "cities"
+msgstr "városok"
+
+msgid "Activate the check boxes of the cities you want to import."
+msgstr "Jelölje be az importálni kívánt városok jelölőnégyzeteit."
+
+msgid "Importing cities in progress"
+msgstr "A városok importálása folyamatban van"
+
+msgid "Were added"
+msgstr "Hozzáadtam"
+
+msgid "new cities to the list"
+msgstr "Új városokat a listához"
+
+msgid "Have been ignored because existing"
+msgstr "Kihagytam, mert már létezik"
+
+msgid "Content of imported list"
+msgstr "Az importált lista tartalma"
+
+msgid "selected by the user"
+msgstr "A felhasználó kijelölései"
+
+msgid "Import finished"
+msgstr "Az importálás befejeződött"
+
+msgid "A copy of"
+msgstr "másolatát"
+
+msgid "It will be exported"
+msgstr "Exportálni fogom kijelölve"
+
+msgid "But it does not yet contain the changes you just made the list!"
+msgstr "de Nem tartalmazza a listáján mostanában végzett változtatásokat"
+
+msgid "I proceed?"
+msgstr "Folytassam?"
+
+msgid "Export cities"
+msgstr "Városok exportálása"
+
+msgid "You can not export the same file at the same path!"
+msgstr "Ugyanazt a fájlt nem mentheti ugyanabba a mappába!"
+
+msgid "january"
+msgstr "január"
+
+msgid "february"
+msgstr "február"
+
+msgid "march"
+msgstr "március"
+
+msgid "april"
+msgstr "április"
+
+msgid "may"
+msgstr "május"
+
+msgid "june"
+msgstr "június"
+
+msgid "july"
+msgstr "július"
+
+msgid "august"
+msgstr "augusztus"
+
+msgid "september"
+msgstr "szeptember"
+
+msgid "october"
+msgstr "október"
+
+msgid "november"
+msgstr "november"
+
+msgid "december"
+msgstr "december"
+
+msgid "Monday"
+msgstr "Hétfő"
+
+msgid "Tuesday"
+msgstr "Kedd"
+
+msgid "Wednesday"
+msgstr "Szerda"
+
+msgid "Thursday"
+msgstr "Csütörtök"
+
+msgid "Friday"
+msgstr "Péntek"
+
+msgid "Saturday"
+msgstr "Szombat"
+
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#, python-format
+msgid "It was not possible find the acronym of %s!"
+msgstr "Nem található  %s rövidítése!"
+
+msgid "This does not allow to get the city details."
+msgstr "Nem lehetséges a város részleteinek megjelenítése"
+
+msgid ""
+"Please report this to the author so he can add this country in database."
+msgstr ""
+"Kérem jelezze a fejlesztőnek, hogy hozzáadhassa ezt az országot az "
+"adatbázishoz."
+
+#, python-format
+msgid "Send an email to %s"
+msgstr "E-mail küldése a %s címre."
+
+msgid "With  object the line below, thanks."
+msgstr "tárgyként az alábbi sort adja meg, köszönöm."
+
+msgid "Downloaded"
+msgstr "Letöltve"
+
+msgid "of"
+msgstr " "
+
+msgid "Find..."
+msgstr "Keresés..."
+
+msgid "Find next"
+msgstr "Következő keresése"
+
+msgid "Find previous"
+msgstr "Előző keresése"
+
+msgid "Empty file or not in cities woeID format compatible!"
+msgstr "Üres fájl, vagy nem kompatibilis a woeID formátummal."
+
+msgid "Be an error has occurred."
+msgstr "Hiba történt."
+
+msgid "See the log for more information."
+msgstr "Tekintse meg a naplót a részletekért."
+
+msgid "Error: failure writing file!"
+msgstr "Hiba: A fájl írásvédett."
+
+msgid "occurrences found"
+msgstr "A következők már megtalálhatók"
+
+msgid "for"
+msgstr " "
+
+msgid "Choose a city."
+msgstr "Válasszon ki egy várost."
+
+msgid "List of availables Cities"
+msgstr "Választható városok"
+
+msgid "Do not show this message again!"
+msgstr "Ne mutassa ismét ezt az üzenetet!"
+
+msgid "&Install..."
+msgstr "&Telepítés..."
+
+msgid "Upd&ate..."
+msgstr "&Frissítés..."
+
+msgid "&Close"
+msgstr "&Bezárás"
+
+msgid "&Uninstall..."
+msgstr "&Eltávolítás..."
+
+msgid "Type the search string"
+msgstr "Írja be a keresőszót"
+
+msgid "Find"
+msgstr "Keresés"
+
+msgid "next"
+msgstr "következő"
+
+msgid "previous"
+msgstr "előző"
+
+msgid "No results next for"
+msgstr "nincs következő találat"
+
+msgid "No previous results for"
+msgstr "nincs előző találat"
+
+msgid "&Select all"
+msgstr "&Összes kijelölése"
+
+msgid "&Deselect all"
+msgstr "&kijelölés megszűntetése"
+
+msgid "not checked"
+msgstr "nincs bejelölve"
+
+msgid "checked"
+msgstr "bejelölve"
+
+msgid "check box"
+msgstr "jelölőnégyzet"
+
+msgid "check boxes checked"
+msgstr "jelölőnégyzet bejelölve"
+
+msgid "check boxes not checked"
+msgstr "jelölőnégyzet nincs bejelölve"
+
+msgid "Saving in progress"
+msgstr "Mentés folyamatban"
+
+msgid "Download canceled."
+msgstr "Letöltés megszakítva."
+
+msgid "&Copy to clipboard"
+msgstr "&Másolás a vágólapra"
+
+msgid ""
+"Adds local temperature and forecast 24 ours and prediction up to 9 days.\n"
+msgstr "helyi hőmérséklet, 24 órás és többnapos előrejelzés lekérdezése.\n"
+
+msgid "NVDA+w for the current bulletin.\n"
+msgstr "NVDA+w: Aktuális hőmérséklet és időjárási viszonyok lekérdezése.\n"
+
+msgid ""
+"NVDA+shift+w for the prediction in the current 24 hours and prediction up to "
+"9 days.\n"
+msgstr ""
+"NVDA+Shift+w: 24 órás időjárás-előrejelzés és a beállítás szerinti többnapos "
+"előrejelzés, maximum 9 napos.\n"
+
+msgid "NVDA+shift+control+w for quickly enter a temporary city.\n"
+msgstr "NVDA+Shift+Ctrl+w: ideiglenes város beálítása\n"
+
+msgid "NVDA + shift + control + alt + w for open the Weather Plus settings.\n"
+msgstr "NVDA+shift+ctrl+alt+w: Az időjárás-előrejelző beállításai\n"
+
+msgid ""
+"NVDA+alt+w announces the date of the last update of the weather report.\n"
+msgstr ""
+"NVDA+Alt+w: megadja, hogy mikor frissültek legutóbb az időjárási adatok.\n"
+
+msgid "Shift+control+w alternates between Fahrenheit, Celsius and Kelvin.\n"
+msgstr ""
+"Ctrl+Shift+w: Váltás a hőmérsékleti skálák között (Fahrenheit, Celsius és "
+"Kelvin).\n"
+
+msgid ""
+"For other instructions, you can also press Add-on Help button in Add-ons "
+"manager."
+msgstr "További információért nyomja meg a Súgó gombot a bővítménykezelőben."
