@@ -639,7 +639,7 @@ Para añadir una nueva Ciudad: pulsa el siguiente elemento:
 # Versión 3.4 #
 
 * Añadida Traducción en Gallego (gracias a Iván Novegil).
-* Added Portuguese translation (thanks to Ângelo Miguel Abrantes).
+* Añadida Traducción al Portugués (gracias a Ângelo Miguel Abrantes).
 * Añadida Traducción en Alemán (incompleta).
 
 # Versión 3.3 #
