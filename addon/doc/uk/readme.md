@@ -36,11 +36,15 @@
 
 # Встановлення додатка Weather Plus: #
 
-* Насамперед вам необхідно налаштувати додаток Weather Plus перед його використанням! Перейдіть в підменю налаштування, підменю налаштування Weather Plus і виберіть один з нижченаведених параметрів:
- * Встановити свої міста й керувати ними... — Відображає або дозволяє задати поточне місто зі списку.
- * Встановити тимчасове місто... — Відображає і дозволяє встановити одне тимчасове місто зі списку, якщо воно доступне.
- * Документація — відкриває файл довідки для поточної мови.
- * Перевірити оновлення... — Повідомляти про наявність нових версій.
+* You must set the Weather Plus addon before its first use! Go to the
+  Preferences submenu, Weather Plus Settings submenu and choose one of the
+  following options:
+ * Встановлення й керування містами... — Відображає або дозволяє встановити
+   поточне місто зі списку.
+ * Set a temporary city... - Displays and allows to set one temporary city
+   from a list if available.
+ * Documentation - Opens the help file for the current language.
+ * Check for Update... - Notifies about the availability of the new version.
 
 Щоб додати нове місто: натисніть нижченаведений пункт:
 

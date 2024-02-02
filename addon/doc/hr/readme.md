@@ -33,11 +33,15 @@
 
 # Postavke za Vremensku prognozu plus: #
 
-* Moraš postaviti dodatak „Vremenska prognoza plus” prije prve upotrebe! Idi u podizbornik „Postavke”, podizbornik postavki „Vremenske prognoze plus” i odaberi jednu od sljedećih opcija:
-* Postavi i upravljaj gradovima … – Prikazuje ili dopušta postavljanje trenutačnog grada s popisa.
-* Postavi privremeni grad … – Prikazuje i omogućuje postavljanje jednog privremenog grada s popisa ako je dostupan.
-* Dokumentacija – Otvara datoteku pomoći za trenutačni jezik.
-* Provjeri nadogradnje … – Obavijest o novijoj verziji.
+* You must set the Weather Plus addon before its first use! Go to the
+  Preferences submenu, Weather Plus Settings submenu and choose one of the
+  following options:
+ * Postavi i upravljaj gradovima … – Prikazuje ili dozvoljava postavljanje
+   trenutačnog grada s popisa.
+ * Set a temporary city... - Displays and allows to set one temporary city
+   from a list if available.
+ * Documentation - Opens the help file for the current language.
+ * Check for Update... - Notifies about the availability of the new version.
 
 Za dodavanje novog grada: pritisni sljedeću stavku:
 

@@ -31,11 +31,15 @@
 
 # Cài đặt Weather Plus: #
 
-* Bạn phải thực hiện cài đặt cho Weather Plus addon trước khi dùng nó! Vào mục Tùy Chọn, Cài đặt Weather Plus và chọn một trong các tùy chọn sau:
- * Cài đặt và quản lý các tỉnh thành của bạn... - hiển thị hoặc cho phép chọn tỉnh / thành hiện tại từ một danh sách.
- * Cài đặt một tỉnh thành tạm... - hiển thị và cho phép chọn một tỉnh / thành tạm thời từ danh sách nếu có.
- * Tài liệu hướng dẫn - mở tập tin trợ giúp cho ngôn ngữ hiện tại.
- * Kiểm tra cập nhật... - thông báo nếu có phiên bản mới.
+* You must set the Weather Plus addon before its first use! Go to the
+  Preferences submenu, Weather Plus Settings submenu and choose one of the
+  following options:
+ * Cài đặt và quản lý các tỉnh thành của bạn... - hiển thị hoặc cho phép
+   chọn tỉnh / thành hiện tại từ danh sách.
+ * Set a temporary city... - Displays and allows to set one temporary city
+   from a list if available.
+ * Documentation - Opens the help file for the current language.
+ * Check for Update... - Notifies about the availability of the new version.
 
 Để thêm một tỉnh thành mới: bấm vào các mục sau:
 
