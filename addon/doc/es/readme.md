@@ -36,15 +36,11 @@
 
 # Configurar Weather Plus: #
 
-* You must set the Weather Plus addon before its first use! Go to the
-  Preferences submenu, Weather Plus Settings submenu and choose one of the
-  following options:
- * Establecer y Administrar Tus Ciudades... - Muestra o permite establecer
-   las ciudades actuales en una lista.
- * Set a temporary city... - Displays and allows to set one temporary city
-   from a list if available.
- * Documentation - Opens the help file for the current language.
- * Check for Update... - Notifies about the availability of the new version.
+* ¡Debe configurar el complemento Weather Plus antes de su primer uso! Ir al submenú Preferencias, submenú Weather Plus Configuración y elija una de las siguientes opciones:
+ * Establecer y Administrar Tus Ciudades... - Muestra o permite establecer las ciudades actuales en una lista.
+ * Establecer una ciudad temporal... - Muestra y permite establecer una ciudad temporal en una lista si está disponible.
+ * Documentación - Abrir el archivo de ayuda para el IDIOMA actual.
+ * Buscar Actualización... - Indicar si se dispone de una versión actualizada.
 
 Para añadir una nueva Ciudad: pulsa el siguiente elemento:
 

@@ -31,15 +31,11 @@
 
 # Weather Plus:n asetusten määritys: #
 
-* You must set the Weather Plus addon before its first use! Go to the
-  Preferences submenu, Weather Plus Settings submenu and choose one of the
-  following options:
- * Määritä ja hallinnoi kaupunkeja...: Näyttää nykyisen kaupungin tai
-   mahdollistaa sen valitsemisen luettelosta.
- * Set a temporary city... - Displays and allows to set one temporary city
-   from a list if available.
- * Documentation - Opens the help file for the current language.
- * Check for Update... - Notifies about the availability of the new version.
+* Weather Plus:n asetukset on määritettävä ennen sen ensimmäistä käyttökertaa. Valitse NVDA-valikosta Asetukset -> Weather Plus ja valitse sitten jokin seuraavista vaihtoehdoista:
+ * Määritä ja hallinnoi kaupunkeja...: Näyttää nykyisen kaupungin tai mahdollistaa sen valitsemisen luettelosta.
+ * Määritä väliaikainen kaupunki...: Näyttää nykyisen väliaikaisen kaupungin tai mahdollistaa sen valitsemisen luettelosta.
+ * Dokumentaatio: Avaa ohjetiedoston nykyisellä kielellä.
+ * Tarkista päivitys...: Ilmoittaa, jos uusi versio on saatavilla.
 
 Lisää uusi kaupunki painamalla seuraavaa painiketta:
 

@@ -34,15 +34,12 @@
 
 # Weather Plus kurulumu: #
 
-* You must set the Weather Plus addon before its first use! Go to the
-  Preferences submenu, Weather Plus Settings submenu and choose one of the
-  following options:
- * Şehirlerinizi Ayarlayın / Yönetin... - Mevcut şehri görüntüler veya
-   ayarlamanızı sağlar.
- * Set a temporary city... - Displays and allows to set one temporary city
-   from a list if available.
- * Documentation - Opens the help file for the current language.
- * Check for Update... - Notifies about the availability of the new version.
+Weather Plus'u kullanmadan önce eklentiyi ayarlamanız gerekir. 
+Tercihler alt menüsündeki Weather Plus Ayarları alt menüsüne gidin ve  aşağıdaki seçeneklerden birini seçin:
+ * Şehirlerinizi Ayarlayın / Yönetin... - Mevcut şehri görüntüler veya ayarlamanızı sağlar.
+ * Geçici bir şehir belirleyin... - Varsa, listeden bir geçici şehri görüntüler ve ayarlamanızı sağlar. 
+ * Dokümantasyon - Geçerli dil için yardım dosyasını açar. 
+ * Güncelleme için Kontrol Et... - Yeni sürümün kullanılabilirliği hakkında bilgi verir. 
 
 Yeni bir şehir eklemek için: aşağıdaki öğeye basın:
 
