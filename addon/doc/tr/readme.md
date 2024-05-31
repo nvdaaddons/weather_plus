@@ -1,4 +1,4 @@
-# Weather Plus #
+# Hava Durumu Eklentisi #
 
 * Yazar: Adriano Barbieri
 * NVDA 2017.3 veya sonraki bir sürümü gerektirir.
