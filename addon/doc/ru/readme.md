@@ -10,7 +10,7 @@
   на 2 дополнительных дня и ежечасный прогноз для NVDA.
 * Авторское право (C) [Adriano Barbieri](mailto:adrianobarb@yahoo.it)
 * Выпущено под лицензией GNU GPL (General Public License) версии 2
-* Weather Plus работает за счет использования и наличие следующих служб:
+* Weather Plus работает за счёт использования и наличие следующих служб:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
 * [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
