@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Weather_Plus\n"
-"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2019-05-06 11:54+0200\n"
-"PO-Revision-Date: 2024-05-25 05:55+0300\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2025-02-05 12:26+0100\n"
+"PO-Revision-Date: 2025-02-05 14:54+0100\n"
 "Last-Translator: Rémy Ruiz <remyruiz@gmail.com>\n"
 "Language-Team: Alex Yeshanu <eshanuap@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
 "X-Poedit-Basepath: ../../../globalPlugins/Weather_Plus\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: __init__.py\n"
+"X-Poedit-SearchPath-0: .\n"
 
 msgid "Fahrenheit"
 msgstr "Фаренгейта"
@@ -76,7 +76,7 @@ msgstr "Ничего"
 
 #. Translators: the message in the main settings window
 msgid "Enter a City or choose one from the list, if available."
-msgstr "Введите название города или выберите его из списка, если он доступен."
+msgstr "Введите город или выберите один из списка, если доступен."
 
 #. Translators: dialog message in case of invalid city or with incomplete data
 #. Translators: dialog message used to describe one of the 2 types of errors in city
@@ -105,7 +105,7 @@ msgid "Do you want to save it?"
 msgstr "Хотите его сохранить?"
 
 msgid "The cities on your list are not compatible with the Weather API!"
-msgstr "Города в вашем списке несовместимы с Weather API!"
+msgstr "Города в вашем списке не совместимы с API погоды!"
 
 msgid ""
 "They have to be tested and validated, you can do it from the addon settings "
@@ -130,8 +130,8 @@ msgid ""
 "Sorry, I can not receive data, problems with the download page, try again "
 "later please!"
 msgstr ""
-"Извините, я не могу получить данные, проблемы со страницей загрузки, "
-"повторите попытку позже, пожалуйста!"
+"Извините, невозможно получить данные, проблемы со страницей загрузки, "
+"попробуйте позже, пожалуйста!"
 
 #. Translators: dialog message and title used when it not possible to connect and receive data
 msgid ""
@@ -186,7 +186,7 @@ msgid "The cloudiness is"
 msgstr "Облачность"
 
 msgid "The precipitation is"
-msgstr "Количество осадков"
+msgstr "Осадки"
 
 msgid "miles per hour"
 msgstr "миль в час"
@@ -202,7 +202,7 @@ msgid "millimeters of mercury"
 msgstr "миллиметров ртутного столба"
 
 msgid "inches"
-msgstr "дюймы"
+msgstr "дюймов"
 
 msgid "nanometers"
 msgstr "нанометров"
@@ -235,8 +235,9 @@ msgstr "скорость"
 msgid "The wind speed is"
 msgstr "Скорость ветра"
 
+#, fuzzy
 msgid "With gusts of"
-msgstr "С порывами ветра"
+msgstr "Порывы ветра"
 
 msgid "The perceived temperature is"
 msgstr "Воспринимаемая температура"
@@ -249,7 +250,7 @@ msgid "The cloudiness is of"
 msgstr "Облачность"
 
 msgid "The precipitation is of"
-msgstr "Количество осадков"
+msgstr "Осадки"
 
 msgid "and the visibility is up to"
 msgstr "видимость"
@@ -258,7 +259,7 @@ msgid "The visibility is up to"
 msgstr "Видимость"
 
 msgid "and the precipitation is"
-msgstr "а количество осадков"
+msgstr "и осадки"
 
 msgid "The pressure is"
 msgstr "Давление"
@@ -296,7 +297,7 @@ msgid "Unnamed"
 msgstr "Без имени"
 
 msgid "Sorry, the city is not set!"
-msgstr "Извините, город не указан!"
+msgstr "Извините, город не установлен!"
 
 msgid "Sorry, it was not possible to load the most recent update!"
 msgstr "К сожалению, не удалось загрузить самые последние обновления!"
@@ -308,7 +309,7 @@ msgid "meters per second"
 msgstr "метров в секунду"
 
 msgid "Sorry, the city set is not valid or contains incomplete data!"
-msgstr "К сожалению, указанный город неверен или содержит неполные данные!"
+msgstr "Извините, город установлен неправильно или содержит неполные данные!"
 
 msgid "north"
 msgstr "северный"
@@ -373,13 +374,11 @@ msgstr "Вы действительно хотите удалить его из 
 msgid "Provides the current temperature and weather conditions."
 msgstr "Предоставляет сведения о текущей температуре и погодных условиях."
 
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Provides the weather forecast and current temperature for 24 hours and the "
 "next %d days."
-msgstr ""
-"Предоставляет прогноз погоды и текущую температуру в течение 24 часов и в "
-"течении %d дней."
+msgstr "Предоставляет сведения о текущей температуре и погодных условиях."
 
 msgid "Sorry, no list available!"
 msgstr "К сожалению, список не доступен!"
@@ -430,7 +429,7 @@ msgid "Define"
 msgstr "Определить"
 
 msgid "Add"
-msgstr "Добавить"
+msgstr "Добавит&ь"
 
 msgid "Remove"
 msgstr "Удалить"
@@ -454,13 +453,13 @@ msgid "C - F - K"
 msgstr "C - F - K"
 
 msgid "Unspecified"
-msgstr "Не указано"
+msgstr "Не указывать"
 
 msgid "Weather Forecasts up to days:"
 msgstr "Прогноз погоды на число дней:"
 
 msgid "API response language:"
-msgstr "Язык ответов API:"
+msgstr "Язык ответа API:"
 
 #. check boxes
 msgid ""
@@ -487,7 +486,7 @@ msgid "Enable &help buttons in the settings window"
 msgstr "Включить кнопки с &подсказками в окне настроек"
 
 msgid "Read &wind information"
-msgstr "Читать информацию о &ветре"
+msgstr "Читать информацию &ветра"
 
 msgid "Add wind directi&on"
 msgstr "Добавить &направление ветра"
@@ -499,7 +498,7 @@ msgid "Add speed in &meters per second of the wind"
 msgstr "Добавить &скорость ветра в метрах в секунду"
 
 msgid "Add wind &gust speed"
-msgstr "Добавить скорость &порывов ветра"
+msgstr "Добавить скорость и пор&ывы ветра"
 
 msgid "Add perceived &temperature"
 msgstr "Добавить воспринимаемую &температуру"
@@ -508,19 +507,19 @@ msgid "&Read atmospherical information"
 msgstr "Читать ат&мосферную информацию"
 
 msgid "Add humidity va&lue"
-msgstr "Добавить значение в&лажности"
+msgstr "Добавить значение вла&жности"
 
 msgid "Add &visibility value"
-msgstr "Добавить значение видим&ости"
+msgstr "Добавить &значение видимости"
 
 msgid "Add cloudiness &value"
-msgstr "Добавить значение об&лачности"
+msgstr "Добавить значение о&блачности"
 
 msgid "Add precipitation &value"
-msgstr "Добавить величину &осадков"
+msgstr "Добавить значение &осадков"
 
 msgid "Add &ultraviolet radiation value"
-msgstr "Добавить значение &ультрафиолетового излучения"
+msgstr "Добавить значение ультра&фиолетовое радиации"
 
 msgid "Add atmospheric &pressure value"
 msgstr "Добавить значение атмосферного &давления"
@@ -542,7 +541,7 @@ msgid "Check for &upgrade"
 msgstr "Провер&ять обновление"
 
 msgid "Test the city validity  and find the data of it."
-msgstr "Проверьте достоверность города и найдите его данные."
+msgstr "Проверка достоверности города и поиск его данных."
 
 msgid "Add the current city into your list."
 msgstr "Добавить текущий город в свой список."
@@ -585,19 +584,19 @@ msgid "By Latitude and Longitude: 48.8567,2.3508"
 msgstr "По широте и долготе: 48.8567,2.3508"
 
 msgid "By City name: Paris"
-msgstr "По названию города: Париж"
+msgstr "По названию города: Paris"
 
 msgid "By City name and country: Toronto,Canada"
-msgstr "По названию города и страны: Торонто, Канада"
+msgstr "По названию города: Toronto,Canada"
 
 msgid "Or Toronto,CA"
-msgstr "Или в Торонто, Калифорния"
+msgstr "Или Toronto,CA"
 
 msgid "By City name and region: Toronto,Ontario"
-msgstr "По названию города и региона: Торонто, Онтарио"
+msgstr "По названию города: Toronto,Ontario"
 
 msgid "By US zip: 10001"
-msgstr "Почтовый индекс США: 10001"
+msgstr "По индексу США: 10001"
 
 msgid "By UK postcode: SW1"
 msgstr "По почтовому индексу Великобритании: SW1"
@@ -606,60 +605,56 @@ msgid "By Canada postal code: G2J"
 msgstr "По почтовому индексу Канады: G2J"
 
 msgid "By metar:<metar code>: metar:EGLL"
-msgstr "По методу:<код metar>: metar:EGLL"
+msgstr "По метару:<metar code>: metar:EGLL"
 
 msgid "By iata:<3 digit airport code>: iata:DXB"
-msgstr "По iata:<трёхзначный код аэропорта>: iata:DXB"
+msgstr "По IATA: <3-значный код аэропорта>: iata:DXB"
 
 msgid "By auto:ip IP lookup: auto:ip"
-msgstr "Автоматически:ip Поиск IP-адреса: автоматически:ip"
+msgstr "По авто:ip поиск IP: auto:ip"
 
 msgid "By IP address (IPv4 and IPv6 supported): 100.0.0.1"
-msgstr "По IP-адресу (поддерживаются IPv4 и IPv6): 100.0.0.1"
+msgstr "По IP-адресу (поддерживается IPv4 и IPv6): 100.0.0.1"
 
 msgid "if there will be cities with the same name, will be listed"
-msgstr "если там будут города с таким же названием, то они будут перечислены"
+msgstr "если будут города с тем же именем, они будут перечислены"
 
 msgid "By default, confirming a selection, is used the postal code"
-msgstr "По умолчанию, подтверждая выбор, используется почтовый индекс"
+msgstr "По умолчанию, для подтверждение выбора используется почтовый индекс"
 
 msgid ""
 "If the postal code is not valid, will be used a text string: city, state, "
 "region"
 msgstr ""
-"Если почтовый индекс неверен, будет использована текстовая строка: город, "
-"штат, регион"
+"Если почтовый индекс недопустим, будет использоваться текстовая строка: "
+"город, штат, регион"
 
 msgid "You can indicate how to proceed by prefixing the following commands"
-msgstr ""
-"Вы можете указать, как действовать дальше, введя префиксы к следующим "
-"командам"
+msgstr "Вы можете указать, как действовать путём префикса следующих команд"
 
 msgid ""
 "Direct (cities with the same name, will not listed), by typing D:City: D:"
 "Paris"
 msgstr ""
-"Напрямую (города с таким названием в списке указаны не будут), набирая D:"
-"Город: D:Париж"
+"Прямые (города с тем же именем, не будут перечислены), набрав D:city: D:Paris"
 
 msgid "Geographic coordinates, by typing G:City: G:Venezia"
-msgstr "Введите географические координаты, набрав G:Город: G:Венеция"
+msgstr "Географические координаты, набрав G: city: G:Venezia"
 
 msgid "Text string, by typing T:City: T:Bologna"
-msgstr "Текстовая строка, введя T:Город: T:Болонья"
+msgstr "Текстовая строка, набрав T:city: T:Bologna"
 
 msgid "If the city is not found"
 msgstr "Если город не найден"
 
 msgid "Try to reverse the order in the search key"
-msgstr "Попробуйте изменить порядок ввода ключевых слов"
+msgstr "Попробуйте изменить  порядок в запросе поиска"
 
 msgid "Try with or without the country of origin"
 msgstr "Попробуйте с или без страны происхождения"
 
 msgid "Try to merge the name with hyphens, or separate it with separator"
-msgstr ""
-"Попробуйте объединить название с помощью дефисов или отделить его пробелом"
+msgstr "Попробуйте объединить имя дефисами или отделить его"
 
 msgid "Try deleting apostrophes"
 msgstr "Попробуйте удалить апостроф"
@@ -668,7 +663,7 @@ msgid "Try changing the vowels accented with normal vowels"
 msgstr "Попробуйте изменить гласные с ударением на нормальные гласные"
 
 msgid "Try to change in English some parts"
-msgstr "Попробуйте изменить некоторые части текста на английском языке"
+msgstr "Попробуй поменять на английском некоторые части"
 
 msgid "Try with a closest location"
 msgstr "Попробуйте ближайшее расположение"
@@ -685,16 +680,15 @@ msgstr "Я не могу воспроизвести звук."
 
 #. Translators: message dialog
 msgid "Choose search key for"
-msgstr "Выберите ключевое слово для поиска"
+msgstr "Выберите запрос поиска для"
 
 #. Translators: the dialog message
 msgid "Unfortunately I could not recover enough data to find the city."
 msgstr ""
-"К сожалению, мне не удалось восстановить достаточно данных, чтобы найти "
-"нужный город."
+"К сожалению, не получилось восстановить достаточно данных, чтобы найти город."
 
 msgid "Do I try anyway?"
-msgstr "Стоит ли мне всё-таки пытаться?"
+msgstr "Попробовать ещё раз?"
 
 msgid "not found! Press F1 for help on entering data."
 msgstr "не найдено! Нажмите F1 для справки по вводу данных."
@@ -759,7 +753,7 @@ msgid "File corrupted or not available!"
 msgstr "Файл повреждён или не доступен!"
 
 msgid "Sorry, I could not complete the installation of the sound effects!"
-msgstr "Извините, я не смог завершить установку звуковых эффектов!"
+msgstr "К сожалению, закончить установку звуковых эффектов невозможно!"
 
 msgid "Installation Error!"
 msgstr "Ошибка Установки!"
@@ -835,7 +829,7 @@ msgid "Import cities"
 msgstr "Импорт городов"
 
 msgid "Empty file or not in cities format compatible!"
-msgstr "Пустой файл или не совместимый с городами формат!"
+msgstr "Пустой файл или не совместим с форматом города!"
 
 msgid "Do you want to replace your list with this?"
 msgstr "Вы хотите заменить свой список этим?"
@@ -875,7 +869,7 @@ msgid "Content of imported list"
 msgstr "Содержание импортированного списка"
 
 msgid "Containing incomplete data"
-msgstr "Содержащий неполные данные"
+msgstr "Содержат неполные данные"
 
 msgid "selected by the user"
 msgstr "выбранные пользователем"
@@ -960,10 +954,10 @@ msgstr "В воскресенье"
 
 #, python-format
 msgid "It was not possible find the acronym of \"%s\"!"
-msgstr "Не удалось найти аббревиатуру \"%s\"!"
+msgstr "Невозможно найти аббревиатуру \"%s\"!"
 
 msgid "This may not allow you to get the city details."
-msgstr "Это может не позволить вам получить подробную информацию о городе."
+msgstr "Это может не позволить вам получить детали города."
 
 msgid ""
 "Please report this to the author so he can add this country in database."
@@ -988,10 +982,10 @@ msgid "Find..."
 msgstr "Найти..."
 
 msgid "Find next"
-msgstr "Найти Следующую"
+msgstr "Найти Следующий"
 
 msgid "Find previous"
-msgstr "Найти Предыдущую"
+msgstr "Найти Предыдущий"
 
 msgid "Be an error has occurred."
 msgstr "Произошла ошибка."
@@ -1077,33 +1071,34 @@ msgstr "Загрузка отменена."
 msgid "&Copy to clipboard"
 msgstr "&Скопировать в буфер обмена"
 
+#, fuzzy
 msgid ""
 "Adds local temperature and forecast 24 ours and prediction up to 3 days.\n"
 msgstr ""
-"Добавляет местную температуру, прогноз на 24 часа и прогноз на срок до 3 "
-"дней.\n"
+"Добавляет локальную температуру и прогноз на 24 часа и прогноз на 2 дня.\n"
 
 msgid "NVDA+w for the current bulletin.\n"
 msgstr "NVDA+w для текущей погоды.\n"
 
+#, fuzzy
 msgid ""
 "NVDA+shift+w for the prediction in the current 24 hours and prediction up to "
 "9 days.\n"
-msgstr "NVDA+Shift+W для прогноза на ближайшие 24 часа и на 9 дней.\n"
+msgstr "NVDA+Shift+W для прогноза на ближайшие 24 часа и на 2 дня.\n"
 
 msgid "NVDA+shift+control+w for quickly enter a temporary city.\n"
-msgstr "NVDA+Shift+Control+W для временной установки города.\n"
+msgstr "NVDA+shift+control+w для быстрого ввода временного города.\n"
 
 msgid "NVDA + shift + control + alt + w for open the Weather Plus settings.\n"
-msgstr "NVDA+shift+control+alt+w открывает диалог настроек Weather Plus.\n"
+msgstr "NVDA+Shift+Control+Alt+w для открытия настроек Weather Plus.\n"
 
 msgid ""
 "NVDA+alt+w announces the date of the last update of the weather report.\n"
-msgstr "NVDA+alt+W информация о последнем обновлении сводки погоды.\n"
+msgstr "NVDA+alt+w объявляет дату последнего обновления сводки погоды.\n"
 
 msgid "Shift+control+w alternates between Fahrenheit, Celsius and Kelvin.\n"
 msgstr ""
-"Shift+Ctrl+W переключение между шкалой Фаренгейта, Цельсия и Кельвина.\n"
+"Shift+Ctrl+w переключение между шкалой Фаренгейта, Цельсия и Кельвина.\n"
 
 msgid ""
 "For other instructions, you can also press Add-on Help button in Add-ons "
@@ -1112,403 +1107,115 @@ msgstr ""
 "Для получения дополнительных инструкций, вы можете нажать кнопку \"Справка\" "
 "в менеджере дополнений."
 
-#~ msgid "The woeID"
-#~ msgstr "WoeID"
+#~ msgid "Attention!"
+#~ msgstr "Внимание!"
 
-#~ msgid "assigned to"
-#~ msgstr "назначенный"
+#~ msgid "The wind gusts are of"
+#~ msgstr "Порывы ветра"
 
-#~ msgid "steady"
-#~ msgstr "нормальное"
+#~ msgid "No moonrise"
+#~ msgstr "Восхода луны нет"
 
-#~ msgid "rising"
-#~ msgstr "выше нормы"
+#~ msgid "No moonset"
+#~ msgstr "Заката луны нет"
 
-#~ msgid "falling"
-#~ msgstr "ниже нормы"
+#~ msgid "No sunrise"
+#~ msgstr "Восхода солнца нет"
 
-#~ msgid "and the state of the barometric pressure is"
-#~ msgstr "барометрическое давление"
+#~ msgid "No sunset"
+#~ msgstr "Заката солнца нет"
 
-#~ msgid "The state of the barometric pressure is"
-#~ msgstr "Барометрическое давление"
+#~ msgid "Chance of rain"
+#~ msgstr "Вероятность дождя"
 
-#~ msgid "in the morning"
-#~ msgstr "утром"
+#~ msgid "Chance of snow"
+#~ msgstr "Вероятность снега"
 
-#~ msgid "in the evening"
-#~ msgstr "вечером"
+#~ msgid "Wind speed"
+#~ msgstr "Скорость ветра"
 
-#~ msgid " and "
-#~ msgstr " и "
+#~ msgid "Direction"
+#~ msgstr "Направление"
 
-#~ msgid " to "
-#~ msgstr " до "
+#~ msgid "Wind direction"
+#~ msgstr "Направление ветра"
 
-#~ msgid "in the vicinity"
-#~ msgstr "в окрестностях"
+#~ msgid "Cloudiness"
+#~ msgstr "Облачность"
 
-#~ msgid "tornado"
-#~ msgstr "торнадо"
+#~ msgid "Precipitation"
+#~ msgstr "Осадки"
 
-#~ msgid "tropical storm"
-#~ msgstr "тропический шторм"
+#~ msgid "Humidity"
+#~ msgstr "Влажность"
 
-#~ msgid "hurricane"
-#~ msgstr "ураган"
+#~ msgid "Visibility"
+#~ msgstr "Видимость"
 
-#~ msgid "severe thunderstorms"
-#~ msgstr "сильные грозы"
+#~ msgid "Hourly forecast for"
+#~ msgstr "Почасовой прогноз"
 
-#~ msgid "mixed rain and snow"
-#~ msgstr "дождь со снегом"
-
-#~ msgid "mixed rain and hail"
-#~ msgstr "дождь с градомм"
-
-#~ msgid "mixed rain and sleet"
-#~ msgstr "дождь с мокрым снегом"
-
-#~ msgid "mixed snow and sleet"
-#~ msgstr "снег и гололедица"
-
-#~ msgid "snow flurries"
-#~ msgstr "порывы снега"
-
-#~ msgid "smoke"
-#~ msgstr "туман"
-
-#~ msgid "smoky"
-#~ msgstr "туманно"
-
-#~ msgid "sunny intervals"
-#~ msgstr "солнечные интервалы"
-
-#~ msgid "sunny period"
-#~ msgstr "солнечный период"
-
-#~ msgid "light snow"
-#~ msgstr "небольшой снег"
-
-#~ msgid "scattered snow showers"
-#~ msgstr "снегопад"
-
-#~ msgid "snow showers"
-#~ msgstr "снегопад"
-
-#~ msgid "snow shower"
-#~ msgstr "снег с дождём"
-
-#~ msgid "snowstorm"
-#~ msgstr "метель"
-
-#~ msgid "snowdrift"
-#~ msgstr "сугробы"
-
-#~ msgid "drifting snow"
-#~ msgstr "заносы"
-
-#~ msgid "wintry Mix"
-#~ msgstr "дождь со снегом"
-
-#~ msgid "ice to rain"
-#~ msgstr "дождь со льдом"
-
-#~ msgid "ice"
-#~ msgstr "на дорогах гололедица"
-
-#~ msgid "blizzard"
-#~ msgstr "метель"
-
-#~ msgid "blowing snow"
-#~ msgstr "шквалы снега"
-
-#~ msgid "snow"
-#~ msgstr "снег"
-
-#~ msgid "light rain with thunder"
-#~ msgstr "небольшой дождь с громом"
-
-#~ msgid "few showers"
-#~ msgstr "небольшой дождь"
-
-#~ msgid "heavy showers"
-#~ msgstr "ливни"
-
-#~ msgid "heavy thunderstorms"
-#~ msgstr "сильные грозы"
-
-#~ msgid "heavy thunderstorm"
-#~ msgstr "сильная гроза"
-
-#~ msgid "lightning"
-#~ msgstr "молния"
-
-#~ msgid "isolated clouds"
-#~ msgstr "малооблачно"
-
-#~ msgid "partly cloudy"
-#~ msgstr "переменная облачность"
-
-#~ msgid "partly bright"
-#~ msgstr "частично ясное небо"
-
-#~ msgid "showers early"
-#~ msgstr "утром дожди"
-
-#~ msgid "light rain"
-#~ msgstr "небольшой дождь"
-
-#~ msgid "heavy rain"
-#~ msgstr "сильный дождь"
-
-#~ msgid "isolated showers"
-#~ msgstr "редкие дожди"
-
-#~ msgid "isolated thunderstorms"
-#~ msgstr "переменные грозы"
-
-#~ msgid "isolated thundershowers"
-#~ msgstr "редкие грозы"
-
-#~ msgid "mostly cloudy"
-#~ msgstr "преимущественно облачно"
-
-#~ msgid "mostly dry"
-#~ msgstr "преимущественно сухо"
-
-#~ msgid "mostly clear"
-#~ msgstr "преимущественно ясно"
-
-#~ msgid "clearing"
-#~ msgstr "ясно"
-
-#~ msgid "no rain"
-#~ msgstr "дождя не ожидается"
-
-#~ msgid "sleet"
-#~ msgstr "дождь со снегом"
-
-#~ msgid "blowing dust"
-#~ msgstr "пыльная буря"
-
-#~ msgid "widespread dust"
-#~ msgstr "пыль"
-
-#~ msgid "low drifting sand"
-#~ msgstr "низко дрейфующие пески"
-
-#~ msgid "sandstorm"
-#~ msgstr "песчаная буря"
-
-#~ msgid "sand storm"
-#~ msgstr "песчаная буря"
-
-#~ msgid "dust"
-#~ msgstr "пыльная буря"
-
-#~ msgid "sand"
-#~ msgstr "песчаная буря"
-
-#~ msgid "thundery showers"
-#~ msgstr "грозовые ливни"
-
-#~ msgid "thundershowers"
-#~ msgstr "ливни"
-
-#~ msgid "scattered thunderstorms"
-#~ msgstr "рассеянные грозы"
-
-#~ msgid "scattered showers"
-#~ msgstr "дожди"
-
-#~ msgid "thunderstorms"
-#~ msgstr "грозы"
-
-#~ msgid "thunderstorm"
-#~ msgstr "гроза"
-
-#~ msgid "storm"
-#~ msgstr "буря"
-
-#~ msgid "hail"
-#~ msgstr "град"
-
-#~ msgid "foggy"
-#~ msgstr "туманно"
-
-#~ msgid "fog"
-#~ msgstr "туман"
-
-#~ msgid "haze"
-#~ msgstr "лёгкий туман"
-
-#~ msgid "mist"
-#~ msgstr "лёгкий туман"
-
-#~ msgid "clear"
-#~ msgstr "ясно"
-
-#~ msgid "fair"
-#~ msgstr "ясно"
-
-#~ msgid "fine"
-#~ msgstr "ясно"
-
-#~ msgid "overcast"
-#~ msgstr "более"
-
-#~ msgid "light showers"
-#~ msgstr "небольшой дождь"
-
-#~ msgid "light drizzle"
-#~ msgstr "небольшая морось"
-
-#~ msgid "freezing rain"
-#~ msgstr "холодный дождь"
-
-#~ msgid "frequent showers"
-#~ msgstr "частые ливни"
-
-#~ msgid "rain shower"
-#~ msgstr "ливень"
-
-#~ msgid "rain"
-#~ msgstr "дождь"
-
-#~ msgid "freezing drizzle"
-#~ msgstr "дождь со снегом"
-
-#~ msgid "showers"
-#~ msgstr "ливень"
-
-#~ msgid "drizzle"
-#~ msgstr "морось"
-
-#~ msgid "dry"
-#~ msgstr "сухо"
-
-#~ msgid "mild"
-#~ msgstr "мягкий"
-
-#~ msgid "clouds"
-#~ msgstr "облачно"
-
-#~ msgid "cloudy"
-#~ msgstr "облачно"
-
-#~ msgid "mostly sunny"
-#~ msgstr "преимущественно ясно"
-
-#~ msgid "sunny"
-#~ msgstr "солнечно"
-
-#~ msgid "sun"
-#~ msgstr "солнечно"
-
-#~ msgid "bright"
-#~ msgstr "ясно"
-
-#~ msgid "thunder"
-#~ msgstr "гром"
-
-#~ msgid "shower"
-#~ msgstr "ливень"
-
-#~ msgid "breezy"
-#~ msgstr "ветрено"
-
-#~ msgid "blustery"
-#~ msgstr "ветрено"
-
-#~ msgid "windy"
-#~ msgstr "ветрено"
-
-#~ msgid "wind"
-#~ msgstr "ветер"
-
-#~ msgid "flurries"
-#~ msgstr "порывы"
-
-#~ msgid "late"
-#~ msgstr "вечером"
-
-#~ msgid "early"
-#~ msgstr "утром"
-
-#~ msgid "isolated"
-#~ msgstr "редкие"
-
-#~ msgid "shallow fog"
-#~ msgstr "стелющийся туман"
-
-#~ msgid "heavy"
-#~ msgstr "сильный"
-
-#~ msgid "cold"
-#~ msgstr "холодный"
-
-#~ msgid "hot"
-#~ msgstr "жаркий"
-
-#~ msgid "Don't specify"
-#~ msgstr "Не указывать"
-
-#~ msgid "Add status of &barometric pressure"
-#~ msgstr "Добавить состояние &барометрического давления"
-
+#, python-format
 #~ msgid ""
-#~ "Testing the validity of city woeID entry and find the name of city "
-#~ "assigned, or viceversa."
+#~ "If pressed once, announce the weather forecast and current temperature "
+#~ "for 24 hours and the next %d days. If pressed twice announce the "
+#~ "hourlyforecast temperature and weather conditions."
 #~ msgstr ""
-#~ "Проверка правильности введённого woeID города и поиск его назначенного "
-#~ "названия или наоборот."
+#~ "При нажатии один раз, объявляет прогноз погоды и текущую температуру в "
+#~ "течение 24 часов и следующих %d дней. При нажатии дважды объявляет "
+#~ "почасовую температуру и погодные условия."
 
-#~ msgid "By city woeID: 715399"
-#~ msgstr "По woeID города: 715399"
+#~ msgid "&hourlyforecast setting..."
+#~ msgstr "Настройки по&часового прогноза..."
 
-#~ msgid "By state or region and city name: Emilia Romagna Ferrara"
-#~ msgstr "По стране или региону и названию города: Emilia Romagna Ferrara"
+#~ msgid "&Displays output in a window"
+#~ msgstr "&Отображает вывод в окне"
 
-#~ msgid "By geographic coordinates: latitude, longitude"
-#~ msgstr "По географическим координатам: долгота, широта"
+#~ msgid "Allows you to choose the contents of the hourly forecast report."
+#~ msgstr "Позволяет выбрать содержимое почасового прогноза."
 
 #~ msgid ""
 #~ "The details of this city are not in the database and so I added them to "
-#~ "the list. Try again!"
+#~ "the list."
 #~ msgstr ""
-#~ "Сведения об этом городе отсутствуют в базе данных, поэтому я добавил их в "
-#~ "список. Попробуйте снова!"
+#~ "Подробности этого города не в базе данных, поэтому я добавил их в список."
+
+#~ msgid "Hourlyforecast data report values."
+#~ msgstr "Значение данных почасового прогноза."
+
+#~ msgid "Disable the data you don't want to be processed:"
+#~ msgstr "Отключить данные, которые вы не хотите обрабатывать:"
 
 #~ msgid ""
-#~ "You have installed the Weather Plus add-on which is incompatible with "
-#~ "this one. The new name of this add-on is Weather_Plus with an underscore. "
-#~ "Click OK to update it."
+#~ "Adds local temperature and forecast 24 hours and prediction up to 2 "
+#~ "days.\n"
+#~ "NVDA+w for the current bulletin.\n"
+#~ "NVDA+shift+w for the prediction in the current 24 hours and prediction up "
+#~ "to 2 days.\n"
+#~ "NVDA+shift+w, pressed twice provides the hourlyforecast of the weather "
+#~ "conditions.\n"
+#~ "NVDA+shift+control+w for quickly enter a temporary city.\n"
+#~ "NVDA + shift + control + alt + w for open the Weather Plus settings.\n"
+#~ "NVDA+alt+w announces the date of the last update of the weather report.\n"
+#~ "Shift+control+w alternates between Fahrenheit, Celsius and Kelvin.\n"
+#~ "For other instructions, you can also press Add-on Help button in Add-ons "
+#~ "manager."
 #~ msgstr ""
-#~ "У Вас установлено дополнение Weather Plus несовместимое с этим. Новое имя "
-#~ "этого дополнения - Weather_Plus с подчеркиванием. Нажмите OK, чтобы "
-#~ "обновить его."
+#~ "Добавляет локальную температуру и прогноз на 24 часа и прогноз на 2 дня.\n"
+#~ "NVDA+w для текущей погоды.\n"
+#~ "NVDA+Shift+W для прогноза на ближайшие 24 часа и на 2 дня.\n"
+#~ "NVDA+Shift+w, нажатая дважды, предоставляет почасовой прогноз погодных "
+#~ "условий.\n"
+#~ "NVDA+shift+control+w для быстрого ввода временного города.\n"
+#~ "NVDA+Shift+Control+Alt+w для открытия настроек Weather Plus.\n"
+#~ "NVDA+alt+w объявляет дату последнего обновления сводки погоды.\n"
+#~ "Shift+Ctrl+w переключение между шкалой Фаренгейта, Цельсия и Кельвина.\n"
+#~ "Для получения дополнительных инструкций, вы можете нажать кнопку "
+#~ "\"Справка\" в менеджере дополнений."
 
-#~ msgid "Update confirmation"
-#~ msgstr "Подтверждение обновления"
-
-#~ msgid "Daylight saving time"
-#~ msgstr "Переход на летнее время"
-
-#~ msgid "ahead"
-#~ msgstr "вперёд"
-
-#~ msgid "back"
-#~ msgstr "назад"
-
-#~ msgid "Starts on"
-#~ msgstr "Начинается"
-
-#~ msgid "set your clock"
-#~ msgstr "переведите ваши часы на"
-
-#~ msgid "hour"
-#~ msgstr "час"
-
-#~ msgid "Ends on"
-#~ msgstr "Заканчивается"
+#~ msgid ""
+#~ "NVDA+shift+w, pressed twice provides the hourlyforecast of the weather "
+#~ "conditions.\n"
+#~ msgstr ""
+#~ "NVDA+Shift+w, нажатая дважды, предоставляет почасовой прогноз погодных "
+#~ "условий.\n"
