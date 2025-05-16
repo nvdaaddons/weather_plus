@@ -2,7 +2,6 @@
 
 * Készítő: Adriano Barbieri
 * NVDA compatibility: 2017.3 to beyond
-* [Stabil Verzió][1] letöltése
 
 # Az időjárás-előrejelzőről: #
 
@@ -13,8 +12,8 @@
 * Az Időjárás-előrejelző az alábbi szolgáltatásokat használja:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # Billentyűparancsok: #
 
@@ -67,7 +66,7 @@
 * Városok exportálása - Elmenti a városlistát egy megadott *.zipcodes
   kiterjesztésű fájlba. A funkció csak akkor működik, ha legalább egy várost
   már felvett a listájára.
-* hourly forecast setting... - This button allows you to choose the contents
+* Hourly forecast setting... - This button allows you to choose the contents
   of the hourly forecast report.
 * Hőmérsékleti skála - Használja a választógombot a kívánt skála
   beállításához. Celsius az alapértelmezett beállítás, de választhat még
@@ -111,7 +110,6 @@
   szeretnénk. Légnyomás higanymilliméterben (mmHg) jelölőnégyzet ha be van
   jelölve, akkor a légnyomás értéke higanymilliméterben, ha nincs bejelölve
   akkor barban jelenik meg.
-* Légnyomás tendenciája - Stagnál, emelkedik vagy csökken.
 * Add cloudiness value; check box checked (by default)
 * Add precipitation value; check box checked (by default)
 * Add ultraviolet radiation value; check box checked (by default)
@@ -139,4 +137,3 @@
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

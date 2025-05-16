@@ -2,7 +2,6 @@
 
 * Tác giả: Adriano Barbieri
 * NVDA tương thích: 2017.3 trở đi
-* Tải về: [phiên bản chính thức][1]
 
 # VỀ WEATHER PLUS: #
 
@@ -13,8 +12,8 @@
 * Weather Plus hoạt động bằng cách sử dụng các dịch vụ sau:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # SỬ DỤNG: #
 
@@ -73,8 +72,8 @@
 * Xuất các tỉnh thành của bạn... - cho phép lưu các tỉnh / thành vào một tập
   tin với phần mở rộng là *.zipcodes. Có thể bấm nút này nếu bạn đã thêm và
   lưu  ít nhất một tỉnh / thành vào danh sách.
-* Cài đặt dự báo từng giờ... - nút này cho phép bạn chọn nội dung của việc
-  dự báo theo từng giờ.
+* Hourly forecast setting... - This button allows you to choose the contents
+  of the hourly forecast report.
 * Đơn vị đo nhiệt độ: dùng các nút radio để chọn giữa Celsius (mặc định),
   Fahrenheit và Kelvin.
 * Hiển thị nhiệt độ: dùng các nút radio để chọn giữa: Celsius `-` Fahrenheit
@@ -117,7 +116,6 @@
 * Thêm giá trị áp suất khí quyển; xác định áp suất khí quyển bằng millibars
   hoặc inch thủy ngân. Nếu chọn, bật thêm một hộp kiểm cho phép bạn xác định
   áp suất bằng mi li mét thủy ngân. Hộp kiểm mặc định được chọn
-* Thêm trạng thái của áp xuất không khí; hộp kiểm mặc định được chọn
 * Thêm giá trị mây; hộp kiểm mặc định được chọn
 * Thêm giá trị mưa; hộp kiểm mặc định được chọn
 * Thêm giá trị tia cực tím; Hộp kiểm mặc định được chọn
@@ -142,4 +140,3 @@
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

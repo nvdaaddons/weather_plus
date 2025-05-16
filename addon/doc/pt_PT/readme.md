@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * Compatibilidade com o NVDA: 2017.3 e seguintes
-* Descarregar: [versão estável][1]
 
 # Acerca do WEATHER PLUS: #
 
@@ -15,8 +14,8 @@
   serviços:
 * [https://www.apixu.com/](https://www.apixu.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # UTILIZAÇÃO: #
 
@@ -79,8 +78,8 @@ Para acrescentar uma nova cidade: prima o seguinte item:
 * Exportar as suas cidades... - Permite-lhe guardar as cidades no ficheiro
   especificado com a extensão *.zipcodes. Este botão é activado se tiver
   adicionado e guardado pelo menos uma cidade na lista.
-* Configuração das previsões horárias... - Este botão permite que escolha o
-  conteúdo do relatório de previsão por hora.
+* Hourly forecast setting... - This button allows you to choose the contents
+  of the hourly forecast report.
 * Escala de medição da temperatura: permite Utilizar os botões de rádio para
   seleccionar entre Celsius (por padrão), Fahrenheit e Kelvin.
 * Mostrar os graus como: Use os botões de rádio para seleccionar entre:
@@ -135,8 +134,6 @@ Para acrescentar uma nova cidade: prima o seguinte item:
   milibares ou polegadas de mercúrio. Se marcada, activa uma caixa de
   verificação adicional que lhe permite indicar a pressão em milímetros de
   mercúrio. Caixa de verificação marcada (por padrão)
-* Adicionar o estado da pressão barométrica. Caixa de verificação marcada,
-  por padrão.
 * Adicionar valor da nebulosidade. Caixa de verificação marcada, por padrão.
 * Adicionar valor da precipitação. Caixa de verificação marcada, por padrão.
 * Adicionar valor da radiação ultravioleta. Caixa de verificação marcada,
@@ -166,4 +163,3 @@ Para acrescentar uma nova cidade: prima o seguinte item:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

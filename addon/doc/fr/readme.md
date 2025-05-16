@@ -2,7 +2,6 @@
 
 * Auteur : Adriano Barbieri
 * Compatibilité NVDA : 2017.3 au-delà
-* Télécharger : [Version stable][1]
 
 # À propos de Weather Plus : #
 
@@ -15,8 +14,8 @@
   suivants :
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # UTILISATION : #
 
@@ -138,8 +137,6 @@ Pour ajouter une nouvelle ville : appuyer sur l'élément suivant :
   ajoute une case à cocher qui vous permet d'indiquer la pression
   atmosphériques en millimètres de mercure. Case à cocher cochée (par
   défaut)
-* Ajouter l'état de la pression barométrique; case à cocher cochée (par
-  défaut)
 * Ajouter la valeur de nébulosité"; case à cocher cochée (par défaut)
 * Ajouter la valeur de précipitation; case à cocher cochée (par défaut)
 * Ajouter la valeur du rayonnement ultraviolet; case à cocher cochée (par
@@ -169,4 +166,3 @@ Pour ajouter une nouvelle ville : appuyer sur l'élément suivant :
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

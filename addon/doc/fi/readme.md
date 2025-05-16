@@ -2,7 +2,6 @@
 
 * Tekijä: Adriano Barbieri
 * Yhteensopivuus: NVDA 2017.3 ja uudemmat
-* Lataa [vakaa versio][1]
 
 # Tietoa Weather Plus -lisäosasta: #
 
@@ -13,8 +12,8 @@
 * Weather Plus käyttää seuraavia palveluita:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # Käyttö: #
 
@@ -127,7 +126,6 @@ Lisää uusi kaupunki painamalla seuraavaa painiketta:
   elohopeatuumina. Mikäli tämä  valintaruutu on valittuna, ota käyttöön myös
   ylimääräinen valintaruutu, joka ilmoittaa paineen
   elohopeamillimetreinä. Tämä valintaruutu on oletusarvoisesti valittuna.
-* Lisää ilmanpaineen tila: Tämä valintaruutu on oletusarvoisesti valittuna.
 * Lisää pilvisyysarvo: Tämä valintaruutu on oletusarvoisesti valittuna.
 * Lisää sademäärä: Tämä valintaruutu on oletusarvoisesti valittuna.
 * Lisää ultraviolettisäteilyn arvo: Tämä valintaruutu on oletusarvoisesti
@@ -158,4 +156,3 @@ Lisää uusi kaupunki painamalla seuraavaa painiketta:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * Compatibilidade com o NVDA: 2017.3 em diante
-* Baixar: [Versão Estável][1]
 
 # SOBRE O WEATHER PLUS: #
 
@@ -15,8 +14,8 @@
   serviços:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # USO: #
 
@@ -77,8 +76,8 @@ Para adicionar uma nova cidade: pressione o seguinte item:
 * Exportar suas cidades... - Permite salvar as cidades no arquivo
   especificado com a extensão *.zipcodes. Este botão é ativado se você
   adicionou e salvou pelo menos uma cidade na lista.
-* configuração de previsão horária... - Este botão permite que você escolha
-  o conteúdo do relatório de previsão horária.
+* Hourly forecast setting... - This button allows you to choose the contents
+  of the hourly forecast report.
 * Escala de medição de temperatura: use o botão de opção para selecionar
   entre Celsius (por padrão), Fahrenheit e Kelvin.
 * Graus mostrados como: Use o botão de opção para selecionar entre: Celsius
@@ -132,8 +131,6 @@ Para adicionar uma nova cidade: pressione o seguinte item:
   milibares ou polegadas de mercúrio. Se estiver marcada, habilita uma caixa
   de seleção adicional que permite indicar a pressão em milímetros de
   mercúrio. Caixa de seleção marcada (por padrão)
-* Adicionar estado da pressão barométrica; caixa de seleção marcada (por
-  padrão)
 * Adicionar valor de nebulosidade; caixa de seleção marcada (por padrão)
 * Adicionar o valor da precipitação; caixa de seleção marcada (por padrão)
 * Adicionar o valor da radiação ultravioleta; caixa de seleção marcada (por
@@ -162,4 +159,3 @@ Para adicionar uma nova cidade: pressione o seguinte item:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

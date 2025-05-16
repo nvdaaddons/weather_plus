@@ -2,7 +2,6 @@
 
 * Yazar: Adriano Barbieri
 * NVDA 2017.3 veya sonraki bir sürümü gerektirir.
-* [kararlı sürümü][1] indir.
 
 # WEATHER PLUS HAKKINDA: #
 
@@ -13,8 +12,8 @@
 * Weather Plus, hava durumu bilgisini aşağıdaki hizmetlerden alır:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # KULLANIM: #
 
@@ -73,7 +72,7 @@ Yeni bir şehir eklemek için: aşağıdaki öğeye basın:
 * Şehirleri dışa aktar... - Şehirleri *.zipcodes uzantısıyla belirtilen
   dosyaya kaydetmenizi sağlar. Listeye en az bir şehir eklediyseniz ve
   kaydettiyseniz bu düğme etkinleştirilebilir.
-* saatlik hava tahmin ayarı... - Bu düğme, saatlik tahmin raporunun
+* Saatlik hava tahmin ayarı... - Bu düğme, saatlik tahmin raporunun
   içeriğini seçmenizi sağlar.
 * Sıcaklık ölçümü ölçeği: Celsius (varsayılan olarak), Fahrenheit ve Kelvin
   arasında seçim yapmak için radyo düğmesini kullanın.
@@ -127,8 +126,6 @@ Yeni bir şehir eklemek için: aşağıdaki öğeye basın:
   olarak gösterir. İşaretliyse, basıncı milimetre cıva cinsinden
   belirtmenize izin veren ek bir onay kutusunu etkinleştiri. Varsayılan
   olarak Onay kutusu işaretlidir.
-* Barometrik basınç durumunu ekle; Varsayılan olarak onay kutusu
-  işaretlidir.
 * Bulutluluk değeri ekle; Varsayılan olarak onay kutusu işaretlidir.
 * Yağış değeri ekle; Varsayılan olarak onay kutusu işaretlidir.
 * Ultraviyole radyasyon değeri ekle; Varsayılan olarak onay kutusu
@@ -157,4 +154,3 @@ Yeni bir şehir eklemek için: aşağıdaki öğeye basın:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

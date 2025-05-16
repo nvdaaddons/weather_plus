@@ -1,28 +1,28 @@
 # Weather Plus #
 
 * Autore: Adriano Barbieri
-* NVDA compatibility: 2017.3 to beyond
-* Scarica: [versione stabile][1]
+* Compatibilità NVDA: 2017.3 e oltre
 
 # A PROPOSITO DI WEATHER PLUS: #
 
-* This plugin adds local temperature and forecasts to 24 hours up to 2
-  additional days and hourlyforecast for NVDA.
+* Questo plugin aggiunge temperatura locale e previsioni a 24 ore fino a
+  ulteriori 2 giorni e previsioni orarie per NVDA.
 * Copyright (C) [Adriano Barbieri](mailto:adrianobarb@yahoo.it)
 * Rilasciato sotto licenza GNU GPL (General Public License) v2
 * Weather Plus funziona attraverso l'uso e la presenza dei seguenti servizi:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # USO: #
 
 * Premere NVDA+w per ottenere le informazioni sulla temperatura attuale e
   condizione meteo.
-* Press NVDA+shift+W to get 24 hours forecast and forecast up to 2 days.
-* Press NVDA+shift+W twice to get hourlyforecast of temperature and
-  atmospheric conditions.
+* Premere NVDA+shift+W per ottenere la previsione a 24 ore e previsione fino
+  a 2 giorni successivi.
+* Premere NVDA+shift+ w 2 volte per le previsioni orarie della temperatura e
+  condizioni meteorologiche.
 * Premere NVDA+shift+control+w per impostare una città temporanea.
 * Premere NVDA+shift+control+alt+w per aprire la finestra impostazioni di
   Weather Plus.
@@ -33,11 +33,11 @@
 
 # Impostare Weather Plus: #
 
-* You must set the Weather Plus addon before its first use! Go to the Preferences submenu, Weather Plus Settings submenu and choose one of the following options:
- * Set and Manage Your Cities... - Displays or allows to set the current city from a list.
- * Set a temporary city... - Displays and allows to set one temporary city from a list if available.
- * Documentation - Opens the help file for the current language.
- * Check for Update... - Notifies about the availability of the new version.
+* È necessario impostare l'addon Weather Plus prima del primo utilizzo! Vai al sottomenu Preferenze, sottomenu Impostazioni Weather Plus e scegliere una delle seguenti opzioni:
+ * Impostazioni e Gestione delle tue città... - Visualizza o consente di impostare una città da un elenco.
+ * Imposta una città temporanea... - Visualizza e consente di impostare una città temporanea da un elenco se disponibile.
+ * Documentazione - Apre la documentazione per la lingua corrente.
+ * Controllo presenza aggiornamenti... - Notifica se è disponibile una versione aggiornata.
 
 Per aggiungere una nuova città: premere il seguente elemento:
 
@@ -47,12 +47,12 @@ Per aggiungere una nuova città: premere il seguente elemento:
   Impostazioni Preimpostato Nessuno F1: aiuto immissione, F2: ultima
   selezione con TAB, F3: elenco e casella di editazione, f4: controllo
   durata previsioni meteo, F5: controlli volume.
-* In the edit box, enter a City or choose one from the list, if
-  available. Note: The F5 key is available if the sound effects are
-  activated.
+* Nella casella di modifica, immettere una città o sceglierne una
+  dall'elenco, se disponibile. Nota: Il tasto F5 è disponibile se gli
+  effetti sonori sono attivati.
 * Dopo aver premuto Invio sulla voce "Impostazioni e Gestione delle tue
   città...", si trova altri pulsanti come segue:
-* Test - Test the validity of the city and find the data of it.
+* Testa - Testa la validità della città e trova i dati di essa.
 * Aggiungi - Aggiunge la città corrente al tuo elenco. Questo pulsante viene
   attivato se si seleziona una città dall'elenco, o ha superato il test.
 * Dettagli - Visualizza informazioni sulla città corrente. Questo pulsante
@@ -75,17 +75,17 @@ Per aggiungere una nuova città: premere il seguente elemento:
 * Esporta le tue città... - Esso consente di salvare le città nel file
   specificato con estensione *.zipcodes. Questo pulsante viene attivato se
   avete aggiunto e salvato almeno una città nell'elenco.
-* hourly forecast setting... - This button allows you to choose the contents
-  of the hourly forecast report.
+* Impostazione di previsione oraria... - Questo pulsante consente di
+  scegliere i contenuti del rapporto di previsione oraria.
 * Scala di misura della temperatura: Utilizzare il Pulsante radio per
   selezionare tra Centigradi (predefinito), Fahrenheit e Kelvin.
 * Indica i gradi come: Utilizzare il Pulsante radio per selezionare tra:
   Centigradi `-` Fahrenheit `-` Kelvin (predefinito) C `-` F `-` K o Non
   specificato.
-* Combo box: Weather Forecasts up to days: 1; you can choose between 1 to 3
-  (1 days by default)
-* Combo box: API response language: English, en; you can choose the language
-  of the weather conditions text.
+* Casella combinata: Previsioni del tempo fino a giorni: 1; selezionare tra
+  1 a 3 (1 giorni predefinito)
+* Casella combinata: lingua di risposta API: English, en; puoi scegliere la
+  lingua del testo delle condizioni meteorologiche.
 * Per eseguire le seguenti azioni, attivare o disattivare le seguenti
   caselle di controllo:
 * Copia il bollettino meteo e previsioni del tempo, compresi i dettagli
@@ -119,7 +119,8 @@ Per aggiungere una nuova città: premere il seguente elemento:
   orarie. Casella di controllo attivata (per impostazione predefinita)
 * Aggiungi la velocità del vento in metri al secondo; casella di controllo
   attivata (per impostazione predefinita)
-* Add wind gust speed of the wind; checkbox checked (by default)
+* Aggiungi la velocità delle raffiche di vento; casella di controllo
+  attivata (per impostazione predefinita)
 * Aggiungi la temperatura percepita; casella di controllo attivata (per
   impostazione predefinita)
 * Leggi informazioni atmosferiche; casella di controllo non attivata (per
@@ -134,13 +135,15 @@ Per aggiungere una nuova città: premere il seguente elemento:
   millibar o pollici di mercurio. Se è attivata, abilita una ulteriore
   casella di controllo che permette di indicare la pressione in millimetri
   di mercurio. Casella di controllo attivata (per impostazione predefinita)
-* Aggiungi lo stato della pressione barometrica; casella di controllo
-  attivata (per impostazione predefinita)
-* Add cloudiness value; check box checked (by default)
-* Add precipitation value; check box checked (by default)
-* Add ultraviolet radiation value; check box checked (by default)
-* Read astronomical information; indicates the time of sunrise and sunset
-  and the time of moonrise and moonset. Checkbox not checked (by default)
+* Aggiungi il valore della nuvolosità;. casella di controllo selezionata
+  (per impostazione predefinita)
+* Aggiungi il valore della precipitazione;. casella di controllo selezionata
+  (per impostazione predefinita)
+* Aggiungi il valore della radiazione ultravioletta; raggi UV in zona emessi
+  dal sole. casella di controllo selezionata (per impostazione predefinita)
+* Leggi le informazioni astronomiche; indica l'ora del alba e tramonto del
+  sole e della luna. Casella di controllo non attivata (per impostazione
+  predefinita)
 * Usa la virgola per separare i decimali; se attivata usa la virgola come
   separatore decimale, in caso contrario, utilizza il punto. Casella di
   controllo non attivata (per impostazione predefinita)
@@ -157,11 +160,10 @@ Per aggiungere una nuova città: premere il seguente elemento:
   volume generale.
 * "Weather.zipcodes": lista delle città con rispettivi zip code e
   definizioni.
-* "Weather.default": Your default city.
+* "Weather.default": La tua città predefinita.
 * "Weather_searchkey": chiavi di ricerca salvate.
 
 --------------------------------------------------------------------------------
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

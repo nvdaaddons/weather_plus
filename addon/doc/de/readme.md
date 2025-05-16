@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * NVDA-Kompatibilität: 2017.3 und neuer
-* [Stabile Version herunterladen][1]
 
 # INFORMATIONEN ZU WEATHER PLUS: #
 
@@ -14,8 +13,8 @@
 * Wetter Plus arbeitet nutzt und benötigt folgende Dienste:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # VERWENDUNG: #
 
@@ -82,8 +81,8 @@ Um eine neue Stadt hinzuzufügen: klicken Sie auf den folgenden Eintrag:
 * Städte exportieren - Sie können un die Städte in der Datei mit der
   Erweiterung *.zipcodes speichern. Diese Schaltfläche wird aktiviert, wenn
   Sie mindestens eine Stadt in die Liste vorhanden ist.
-* Einstellung der stündlichen Vorhersage... - Mit dieser Schaltfläche können
-  Sie den Inhalt des stündlichen Vorhersageberichts auswählen.
+* Hourly forecast setting... - This button allows you to choose the contents
+  of the hourly forecast report.
 * Temperaturskala: Verwenden Sie die Auswahlschalter, um Celsius (Standard),
   Fahrenheit oder Kelvin auszuwählen.
 * Grad-Einheit anzeigen als: Verwenden Sie den Auswahlschalter, um die
@@ -142,8 +141,6 @@ Um eine neue Stadt hinzuzufügen: klicken Sie auf den folgenden Eintrag:
   Quecksilber an. Wenn es markiert ist, aktivieren Sie ein zusätzliches
   Kontrollkästchen, mit dem Sie den Luftdruck in Millimetern Quecksilber
   angeben können. Das Kontrollkästchen ist standardmäßig aktiviert.
-* Status des Luftdrucks ergänzen. Das Kontrollfeld ist standardmäßig
-  aktiviert.
 * Trübungswert hinzufügen; Kontrollkästchen aktiviert (standardmäßig)
 * Niederschlagswert hinzufügen; Kontrollkästchen aktiviert (standardmäßig)
 * Wert der UV-Strahlung hinzufügen; Kontrollkästchen aktiviert
@@ -173,4 +170,3 @@ Um eine neue Stadt hinzuzufügen: klicken Sie auf den folgenden Eintrag:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

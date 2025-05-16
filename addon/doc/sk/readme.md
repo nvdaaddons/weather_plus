@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * NVDA compatibility: 2017.3 to beyond
-* Stiahnuť: [Stabilnú verziu] [1]
 
 # O doplnku #
 
@@ -13,8 +12,8 @@
 * Doplnok využíva tieto služby:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # POUŽITIE: #
 
@@ -69,7 +68,7 @@ Nové mesto na sledovanie pridáte nasledovne:
   chcete importovať.
 * Exportovať: Umožňuje vám uložiť mestá do súboru s príponou *
   .zipcodes. Exportovať môžete len vtedy, ak je v zozname aspoň jedno mesto.
-* hourly forecast setting... - This button allows you to choose the contents
+* Hourly forecast setting... - This button allows you to choose the contents
   of the hourly forecast report.
 * Jednotky merania teploty: Pomocou prepínača vyberte medzi stupňami Celzia
   (predvolené), Fahrenheita alebo Kelvina.
@@ -112,7 +111,6 @@ Nové mesto na sledovanie pridáte nasledovne:
 * Oznamovať hodnotu Atmosferického tlaku: Oznamuje stav tlaku v milibaroch
   alebo palcoch ortuti. Predvolene je zapnuté. Po začiarknutí je tiež možné
   začiarknuť oznamovanie tlaku v milimetroch ortuti.
-* Oznamovať barometrický tlak: Predvolene zapnuté.
 * Add cloudiness value; check box checked (by default)
 * Add precipitation value; check box checked (by default)
 * Add ultraviolet radiation value; check box checked (by default)
@@ -135,4 +133,3 @@ Nové mesto na sledovanie pridáte nasledovne:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

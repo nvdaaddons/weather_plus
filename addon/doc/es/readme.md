@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * Compatibilidad con NVDA: de 2017.3 hasta más allá
-* Descargar: [versión estable][1]
 
 # ACERCA DE WEATHER PLUS: #
 
@@ -15,8 +14,8 @@
   servicios:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # USO: #
 
@@ -78,7 +77,7 @@ Para añadir una nueva Ciudad: pulsa el siguiente elemento:
 * Exportar tus ciudades... - Permite guardar las ciudades en el archivo
   especificado con la extensión * .zipcodes. Este botón se activa si tienes
   añadido y guardado al menos una ciudad en la lista.
-* configuración del pronóstico horario... - Este botón te permite elegir los
+* Configuración del pronóstico horario... - Este botón te permite elegir los
   contenidos del boletín del pronóstico horario.
 * Escala de medición de la temperatura: Utiliza los botones de opciones para
   seleccionar entre Celsius (por defecto), Fahrenheit y Kelvin.
@@ -138,8 +137,6 @@ Para añadir una nueva Ciudad: pulsa el siguiente elemento:
   milibares o pulgadas de mercurio. Si está habilitado, activa una casilla
   de verificación adicional que te permite indicar la presión en milímetros
   de mercurio. Casilla de verificación marcado (por defecto)
-* Añadir estado de la presión barométrica; casilla de verificación marcado
-  (por defecto)
 * Añadir valor de nubosidad; casilla de verificación marcado (por defecto)
 * Añadir valor de precipitación; casilla de verificación marcado (por
   defecto)
@@ -171,4 +168,3 @@ Para añadir una nueva Ciudad: pulsa el siguiente elemento:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus

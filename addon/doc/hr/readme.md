@@ -2,7 +2,6 @@
 
 * Autor: Adriano Barbieri
 * NVDA kompatibilnost: 2017.3 i nadalje
-* Preuzmi [stabilnu verziju][1]
 
 # INFORMACIJE O VREMENSKOJ PROGNOZI PLUS: #
 
@@ -14,8 +13,8 @@
   usluga:
 * [https://www.weatherapi.com/](https://www.weatherapi.com/)
 * [http://www.geonames.org/](http://www.geonames.org/)
-* [http://veloroutes.org/elevation/](http://veloroutes.org/elevation/)
-* [http://www.nvda.it/](http://www.nvda.it/)
+* [https://api.open-meteo.com/v1/elevation/](https://api.open-meteo.com/v1/elevation/)
+* [https://www.nvda.it/](https://www.nvda.it/)
 
 # PRIMJENA: #
 
@@ -73,8 +72,8 @@ Za dodavanje novog grada: pritisni sljedeću stavku:
 * Izvezi gradove … – Dozvoljava spremanje gradova u određenu datoteku s
   nastavkom *.zipcodes. Ovaj se gumb aktivira, ako se u popis doda i spremi
   barem jedan grad.
-* Postavka prognoze po satu … – Ovaj gumb omogućuje biranje sadržaja
-  izvještaja o prognozi po satu.
+* Hourly forecast setting... - This button allows you to choose the contents
+  of the hourly forecast report.
 * Temperaturna ljestvica: Koristi odabirni gumb za biranje između Celzijevih
   stupnjeva (standardno), Fahrenheitovih stupnjeva i kelvina.
 * Stupnjevi prikazani kao: Koristi odabirni gumb za biranje između: Celzija
@@ -126,7 +125,6 @@ Za dodavanje novog grada: pritisni sljedeću stavku:
   milimetrima ili inčima žive. Ako je označeno, uključuje dodatni potvrdni
   okvir za označavanje tlaka u milimetrima žive. Potvrdni okvir je
   standardno označen.
-* Dodaj stanje barometra; potvrdni okvir je standardno označen.
 * Dodaj vrijednost oblačnosti; potvrdni okvir je standardno označen.
 * Dodaj vrijednost oborine; potvrdni okvir je standardno označen.
 * Dodaj vrijednost ultraljubičastog zračenja; potvrdni okvir je standardno
@@ -152,4 +150,3 @@ Za dodavanje novog grada: pritisni sljedeću stavku:
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=Weather_Plus
